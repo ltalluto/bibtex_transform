@@ -1,0 +1,43 @@
+--------------------------------------------------------
+JournalTitle: The American Naturalist
+MedAbbr: Am Nat
+--------------------------------------------------------
+JournalTitle: Journal of Computational and Graphical Statistics
+MedAbbr: J Comput Graph Stat
+--------------------------------------------------------
+JournalTitle: Bulletin of the Entomological Society of America
+MedAbbr: Bull Entomol Soc Am
+--------------------------------------------------------
+JournalTitle: Global Change Biology
+MedAbbr: Glob Change Biol
+--------------------------------------------------------
+JournalTitle: Journal of Ecology
+MedAbbr: J Ecol
+--------------------------------------------------------
+JournalTitle: Annals of Applied Statistics
+MedAbbr: Ann Appl Stat
+--------------------------------------------------------
+JournalTitle: Nature
+MedAbbr: Nature
+--------------------------------------------------------
+JournalTitle: Ecological Monographs
+MedAbbr: Ecol Monogr
+--------------------------------------------------------
+JournalTitle: Bulletin of the American Meteorological Society
+MedAbbr: B Am Meterol Soc
+--------------------------------------------------------
+JournalTitle: Ecology
+MedAbbr: Ecology
+--------------------------------------------------------
+JournalTitle: Ecography
+MedAbbr: Ecography
+--------------------------------------------------------
+JournalTitle: Ecology Letters
+MedAbbr: Ecol Lett
+--------------------------------------------------------
+JournalTitle: Science
+MedAbbr: Science
+--------------------------------------------------------
+JournalTitle: Oikos
+MedAbbr: Oikos
+--------------------------------------------------------

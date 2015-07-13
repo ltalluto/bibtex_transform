@@ -1,0 +1,5205 @@
+--------------------------------------------------------
+JrId: 1
+JournalTitle: AADE editors' journal
+MedAbbr: AADE Ed J
+ISSN (Print): 0160-6999
+ISSN (Online): 
+IsoAbbr: AADE Ed J
+NlmId: 7708172
+--------------------------------------------------------
+JrId: 2
+JournalTitle: AANA journal
+MedAbbr: AANA J
+ISSN (Print): 0094-6354
+ISSN (Online): 
+IsoAbbr: AANA J
+NlmId: 0431420
+--------------------------------------------------------
+JrId: 3
+JournalTitle: AARN news letter
+MedAbbr: AARN News Lett
+ISSN (Print): 0001-0197
+ISSN (Online): 
+IsoAbbr: AARN News Lett
+NlmId: 1251052
+--------------------------------------------------------
+JrId: 4
+JournalTitle: [Nihon shika hyoron] The Nippon dental review
+MedAbbr: Nihon Shika Hyoron
+ISSN (Print): 0289-0909
+ISSN (Online): 
+IsoAbbr: Nihon Shika Hyoron
+NlmId: 19130390R
+--------------------------------------------------------
+JrId: 5
+JournalTitle: Academia Peruana de Cirugia
+MedAbbr: Acad Peru Cir
+ISSN (Print): 0001-3854
+ISSN (Online): 
+IsoAbbr: Acad Peru Cir
+NlmId: 14490460R
+--------------------------------------------------------
+JrId: 6
+JournalTitle: Academy review of the California Academy of Periodontology, United States Section, ARPA Internationale
+MedAbbr: Acad Rev Calif Acad Periodontol
+ISSN (Print): 0008-0810
+ISSN (Online): 
+IsoAbbr: Acad Rev Calif Acad Periodontol
+NlmId: 7503275
+--------------------------------------------------------
+JrId: 7
+JournalTitle: Acarologia
+MedAbbr: Acarologia
+ISSN (Print): 0044-586X
+ISSN (Online): 
+IsoAbbr: Acarologia
+NlmId: 14510400R
+--------------------------------------------------------
+JrId: 9
+JournalTitle: Acquisitions medicales recentes
+MedAbbr: Acquis Med Recent
+ISSN (Print): 0075-4463
+ISSN (Online): 
+IsoAbbr: Acquis Med Recent
+NlmId: 0373054
+--------------------------------------------------------
+JrId: 11
+JournalTitle: Activitas nervosa superior
+MedAbbr: Act Nerv Super (Praha)
+ISSN (Print): 0001-7604
+ISSN (Online): 
+IsoAbbr: Act Nerv Super (Praha)
+NlmId: 0400662
+--------------------------------------------------------
+JrId: 12
+JournalTitle: Acta allergologica
+MedAbbr: Acta Allergol
+ISSN (Print): 0001-5148
+ISSN (Online): 
+IsoAbbr: Acta Allergol
+NlmId: 0370567
+--------------------------------------------------------
+JrId: 13
+JournalTitle: Acta anaesthesiologica
+MedAbbr: Acta Anaesthesiol
+ISSN (Print): 0001-5156
+ISSN (Online): 
+IsoAbbr: Acta Anaesthesiol
+NlmId: 0340732
+--------------------------------------------------------
+JrId: 14
+JournalTitle: Acta anaesthesiologica Belgica
+MedAbbr: Acta Anaesthesiol Belg
+ISSN (Print): 0001-5164
+ISSN (Online): 
+IsoAbbr: Acta Anaesthesiol Belg
+NlmId: 0421022
+--------------------------------------------------------
+JrId: 15
+JournalTitle: Acta anaesthesiologica Scandinavica
+MedAbbr: Acta Anaesthesiol Scand
+ISSN (Print): 0001-5172
+ISSN (Online): 1399-6576
+IsoAbbr: Acta Anaesthesiol Scand
+NlmId: 0370270
+--------------------------------------------------------
+JrId: 16
+JournalTitle: Acta anaesthesiologica Scandinavica. Supplementum
+MedAbbr: Acta Anaesthesiol Scand Suppl
+ISSN (Print): 0515-2720
+ISSN (Online): 
+IsoAbbr: Acta Anaesthesiol Scand Suppl
+NlmId: 0370271
+--------------------------------------------------------
+JrId: 17
+JournalTitle: Acta anatomica
+MedAbbr: Acta Anat (Basel)
+ISSN (Print): 0001-5180
+ISSN (Online): 
+IsoAbbr: Acta Anat (Basel)
+NlmId: 0370272
+--------------------------------------------------------
+JrId: 18
+JournalTitle: Kaibogaku zasshi. Journal of anatomy
+MedAbbr: Kaibogaku Zasshi
+ISSN (Print): 0022-7722
+ISSN (Online): 
+IsoAbbr: Kaibogaku Zasshi
+NlmId: 0413526
+--------------------------------------------------------
+JrId: 19
+JournalTitle: Acta biochimica et biophysica; Academiae Scientiarum Hungaricae
+MedAbbr: Acta Biochim Biophys Acad Sci Hung
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Acta Biochim. Biophys. Acad. Sci. Hung.
+NlmId: 0067725
+--------------------------------------------------------
+JrId: 20
+JournalTitle: Acta biochimica Polonica
+MedAbbr: Acta Biochim Pol
+ISSN (Print): 0001-527X
+ISSN (Online): 1734-154X
+IsoAbbr: Acta Biochim. Pol.
+NlmId: 14520300R
+--------------------------------------------------------
+JrId: 21
+JournalTitle: Across the board
+MedAbbr: Across Board (NY)
+ISSN (Print): 0147-1554
+ISSN (Online): 
+IsoAbbr: Across Board (NY)
+NlmId: 9877747
+--------------------------------------------------------
+JrId: 22
+JournalTitle: Acta biologica Academiae Scientiarum Hungaricae
+MedAbbr: Acta Biol Acad Sci Hung
+ISSN (Print): 0001-5288
+ISSN (Online): 
+IsoAbbr: Acta Biol Acad Sci Hung
+NlmId: 0370274
+--------------------------------------------------------
+JrId: 23
+JournalTitle: Academy of management review. Academy of Management
+MedAbbr: Acad Manage Rev
+ISSN (Print): 0363-7425
+ISSN (Online): 1930-3807
+IsoAbbr: Acad Manage Rev
+NlmId: 9877758
+--------------------------------------------------------
+JrId: 24
+JournalTitle: Acta biochimica et biophysica Hungarica
+MedAbbr: Acta Biochim Biophys Hung
+ISSN (Print): 0237-6261
+ISSN (Online): 
+IsoAbbr: Acta Biochim. Biophys. Hung.
+NlmId: 8701158
+--------------------------------------------------------
+JrId: 25
+JournalTitle: Acta biologiae experimentalis
+MedAbbr: Acta Biol Exp (Warsz)
+ISSN (Print): 0365-0820
+ISSN (Online): 
+IsoAbbr: Acta Biol Exp (Warsz)
+NlmId: 1246764
+--------------------------------------------------------
+JrId: 27
+JournalTitle: Academy of Management journal. Academy of Management
+MedAbbr: Acad Manage J
+ISSN (Print): 0001-4273
+ISSN (Online): 1948-0989
+IsoAbbr: Acad Manage J
+NlmId: 7703609
+--------------------------------------------------------
+JrId: 28
+JournalTitle: Acta Belgica. Medica physica : organe officiel de la Societe royale belge de medecine physique et de rehabilitation
+MedAbbr: Acta Belg Med Phys
+ISSN (Print): 0771-5684
+ISSN (Online): 
+IsoAbbr: Acta Belg Med Phys
+NlmId: 8307581
+--------------------------------------------------------
+JrId: 29
+JournalTitle: Shi yan sheng wu xue bao
+MedAbbr: Shi Yan Sheng Wu Xue Bao
+ISSN (Print): 0001-5334
+ISSN (Online): 
+IsoAbbr: Shi Yan Sheng Wu Xue Bao
+NlmId: 0413570
+--------------------------------------------------------
+JrId: 30
+JournalTitle: Acta biologica Hungarica
+MedAbbr: Acta Biol Hung
+ISSN (Print): 0236-5383
+ISSN (Online): 
+IsoAbbr: Acta. Biol. Hung.
+NlmId: 8404358
+--------------------------------------------------------
+JrId: 31
+JournalTitle: Acta biologica et medica
+MedAbbr: Acta Biol Med (Gdansk)
+ISSN (Print): 0065-1087
+ISSN (Online): 
+IsoAbbr: Acta Biol Med (Gdansk)
+NlmId: 0370275
+--------------------------------------------------------
+JrId: 32
+JournalTitle: Acta biologica et medica Germanica
+MedAbbr: Acta Biol Med Ger
+ISSN (Print): 0001-5318
+ISSN (Online): 
+IsoAbbr: Acta Biol. Med. Ger.
+NlmId: 0370276
+--------------------------------------------------------
+JrId: 33
+JournalTitle: Acta bio-medica de L'Ateneo parmense : organo della Societa di medicina e scienze naturali di Parma
+MedAbbr: Acta Biomed Ateneo Parmense
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Acta Biomed Ateneo Parmense
+NlmId: 8106323
+--------------------------------------------------------
+JrId: 34
+JournalTitle: Acta biotheoretica
+MedAbbr: Acta Biotheor
+ISSN (Print): 0001-5342
+ISSN (Online): 1572-8358
+IsoAbbr: Acta Biotheor.
+NlmId: 0421520
+--------------------------------------------------------
+JrId: 35
+JournalTitle: Acta cancerologica
+MedAbbr: Acta Cancerol (Lima)
+ISSN (Print): 1013-5545
+ISSN (Online): 1810-8296
+IsoAbbr: Acta Cancerol (Lima)
+NlmId: 0370300
+--------------------------------------------------------
+JrId: 36
+JournalTitle: Acta cardiologica
+MedAbbr: Acta Cardiol
+ISSN (Print): 0001-5385
+ISSN (Online): 1784-973X
+IsoAbbr: Acta Cardiol
+NlmId: 0370570
+--------------------------------------------------------
+JrId: 38
+JournalTitle: Acta chemica Scandinavica. Series A: Physical and inorganic chemistry
+MedAbbr: Acta Chem Scand A
+ISSN (Print): 0302-4377
+ISSN (Online): 
+IsoAbbr: Acta Chem Scand A
+NlmId: 0421761
+--------------------------------------------------------
+JrId: 39
+JournalTitle: Acta chemica Scandinavica. Series B: Organic chemistry and biochemistry
+MedAbbr: Acta Chem Scand B
+ISSN (Print): 0302-4369
+ISSN (Online): 
+IsoAbbr: Acta Chem. Scand., B, Org. Chem. Biochem.
+NlmId: 0421265
+--------------------------------------------------------
+JrId: 40
+JournalTitle: Acta chirurgica Academiae Scientiarum Hungaricae
+MedAbbr: Acta Chir Acad Sci Hung
+ISSN (Print): 0001-5431
+ISSN (Online): 
+IsoAbbr: Acta Chir Acad Sci Hung
+NlmId: 2984283R
+--------------------------------------------------------
+JrId: 41
+JournalTitle: Acta chirurgica Hungarica
+MedAbbr: Acta Chir Hung
+ISSN (Print): 0231-4614
+ISSN (Online): 
+IsoAbbr: Acta Chir Hung
+NlmId: 8309977
+--------------------------------------------------------
+JrId: 42
+JournalTitle: Acta cardiologica. Supplementum
+MedAbbr: Acta Cardiol Suppl
+ISSN (Print): 0373-7934
+ISSN (Online): 
+IsoAbbr: Acta Cardiol Suppl
+NlmId: 0376316
+--------------------------------------------------------
+JrId: 43
+JournalTitle: Acta chirurgica Belgica
+MedAbbr: Acta Chir Belg
+ISSN (Print): 0001-5458
+ISSN (Online): 
+IsoAbbr: Acta Chir. Belg.
+NlmId: 0370571
+--------------------------------------------------------
+JrId: 44
+JournalTitle: Acta chirurgica Italica
+MedAbbr: Acta Chir Ital
+ISSN (Print): 0001-5466
+ISSN (Online): 
+IsoAbbr: Acta Chir Ital
+NlmId: 0370303
+--------------------------------------------------------
+JrId: 45
+JournalTitle: Acta chirurgica Iugoslavica
+MedAbbr: Acta Chir Iugosl
+ISSN (Print): 0354-950X
+ISSN (Online): 
+IsoAbbr: Acta Chir Iugosl
+NlmId: 0372631
+--------------------------------------------------------
+JrId: 46
+JournalTitle: Acta chirurgiae orthopaedicae et traumatologiae Cechoslovaca
+MedAbbr: Acta Chir Orthop Traumatol Cech
+ISSN (Print): 0001-5415
+ISSN (Online): 
+IsoAbbr: Acta Chir Orthop Traumatol Cech
+NlmId: 0407123
+--------------------------------------------------------
+JrId: 47
+JournalTitle: Acta chirurgiae plasticae
+MedAbbr: Acta Chir Plast
+ISSN (Print): 0001-5423
+ISSN (Online): 1805-4404
+IsoAbbr: Acta Chir Plast
+NlmId: 0370301
+--------------------------------------------------------
+JrId: 48
+JournalTitle: Acta chirurgica Scandinavica
+MedAbbr: Acta Chir Scand
+ISSN (Print): 0001-5482
+ISSN (Online): 
+IsoAbbr: Acta Chir Scand
+NlmId: 7906530
+--------------------------------------------------------
+JrId: 49
+JournalTitle: Acta chirurgica Scandinavica. Supplementum
+MedAbbr: Acta Chir Scand Suppl
+ISSN (Print): 0301-1860
+ISSN (Online): 
+IsoAbbr: Acta Chir Scand Suppl
+NlmId: 0370305
+--------------------------------------------------------
+JrId: 50
+JournalTitle: Acta cientifica venezolana
+MedAbbr: Acta Cient Venez
+ISSN (Print): 0001-5504
+ISSN (Online): 
+IsoAbbr: Acta Cient. Venez.
+NlmId: 0070154
+--------------------------------------------------------
+JrId: 51
+JournalTitle: Acta clinica Belgica
+MedAbbr: Acta Clin Belg
+ISSN (Print): 1784-3286
+ISSN (Online): 2295-3337
+IsoAbbr: Acta Clin Belg
+NlmId: 0370306
+--------------------------------------------------------
+JrId: 52
+JournalTitle: Acta clinica Belgica. Supplementum
+MedAbbr: Acta Clin Belg Suppl
+ISSN (Print): 0567-7386
+ISSN (Online): 
+IsoAbbr: Acta Clin Belg Suppl
+NlmId: 0043523
+--------------------------------------------------------
+JrId: 53
+JournalTitle: Acta clinica odontologica : organo de difusion academica de Sociedad Antioquena de Endodoncistas ... [et al.]
+MedAbbr: Acta Clin Odontol
+ISSN (Print): 0120-9906
+ISSN (Online): 
+IsoAbbr: Acta Clin Odontol
+NlmId: 8503035
+--------------------------------------------------------
+JrId: 54
+JournalTitle: Acta crystallographica
+MedAbbr: Acta Crystallogr
+ISSN (Print): 0365-110X
+ISSN (Online): 
+IsoAbbr: Acta Crystallogr
+NlmId: 0211526
+--------------------------------------------------------
+JrId: 55
+JournalTitle: Acta crystallographica. Section A, Crystal physics, diffraction, theoretical and general crystallography
+MedAbbr: Acta Crystallogr A
+ISSN (Print): 0567-7394
+ISSN (Online): 
+IsoAbbr: Acta Crystallogr A
+NlmId: 0211627
+--------------------------------------------------------
+JrId: 57
+JournalTitle: Acta cytologica
+MedAbbr: Acta Cytol
+ISSN (Print): 0001-5547
+ISSN (Online): 1938-2650
+IsoAbbr: Acta Cytol.
+NlmId: 0370307
+--------------------------------------------------------
+JrId: 58
+JournalTitle: Acta embryologiae et morphologiae experimentalis ("Halocynthia" Association")
+MedAbbr: Acta Embryol Morphol Exp
+ISSN (Print): 0391-9706
+ISSN (Online): 
+IsoAbbr: Acta Embryol Morphol Exp
+NlmId: 8108943
+--------------------------------------------------------
+JrId: 59
+JournalTitle: Acta dermatologica-Kyoto. English edition
+MedAbbr: Acta Dermatol Kyoto Engl Ed
+ISSN (Print): 0376-0189
+ISSN (Online): 
+IsoAbbr: Acta Dermatol Kyoto Engl Ed
+NlmId: 0266344
+--------------------------------------------------------
+JrId: 60
+JournalTitle: Acta dermato-venereologica
+MedAbbr: Acta Derm Venereol
+ISSN (Print): 0001-5555
+ISSN (Online): 1651-2057
+IsoAbbr: Acta Derm. Venereol.
+NlmId: 0370310
+--------------------------------------------------------
+JrId: 61
+JournalTitle: Acta dermato-venereologica. Supplementum
+MedAbbr: Acta Derm Venereol Suppl (Stockh)
+ISSN (Print): 0365-8341
+ISSN (Online): 
+IsoAbbr: Acta Derm Venereol Suppl (Stockh)
+NlmId: 0370311
+--------------------------------------------------------
+JrId: 62
+JournalTitle: Hifuka kiyo. Acta dermatologica
+MedAbbr: Hifuka Kiyo
+ISSN (Print): 0065-1176
+ISSN (Online): 
+IsoAbbr: Hifuka Kiyo
+NlmId: 1305010
+--------------------------------------------------------
+JrId: 63
+JournalTitle: Acta diabetologica latina
+MedAbbr: Acta Diabetol Lat
+ISSN (Print): 0001-5563
+ISSN (Online): 
+IsoAbbr: Acta Diabetol Lat
+NlmId: 0123567
+--------------------------------------------------------
+JrId: 64
+JournalTitle: Acta embryologiae experimentalis
+MedAbbr: Acta Embryol Exp (Palermo)
+ISSN (Print): 0065-1184
+ISSN (Online): 
+IsoAbbr: Acta Embryol Exp (Palermo)
+NlmId: 0236000
+--------------------------------------------------------
+JrId: 65
+JournalTitle: Acta embryologiae et morphologiae experimentalis
+MedAbbr: Acta Embryol Morphol Exp
+ISSN (Print): 0567-7416
+ISSN (Online): 
+IsoAbbr: Acta Embryol Morphol Exp
+NlmId: 0235532
+--------------------------------------------------------
+JrId: 66
+JournalTitle: Acta endocrinologica
+MedAbbr: Acta Endocrinol (Copenh)
+ISSN (Print): 0001-5598
+ISSN (Online): 
+IsoAbbr: Acta Endocrinol.
+NlmId: 0370312
+--------------------------------------------------------
+JrId: 67
+JournalTitle: Acta endocrinologica. Supplementum
+MedAbbr: Acta Endocrinol Suppl (Copenh)
+ISSN (Print): 0300-9750
+ISSN (Online): 
+IsoAbbr: Acta Endocrinol Suppl (Copenh)
+NlmId: 0370313
+--------------------------------------------------------
+JrId: 68
+JournalTitle: Acta Europaea fertilitatis
+MedAbbr: Acta Eur Fertil
+ISSN (Print): 0587-2421
+ISSN (Online): 
+IsoAbbr: Acta Eur. Fertil.
+NlmId: 1300660
+--------------------------------------------------------
+JrId: 69
+JournalTitle: Acta gastro-enterologica Belgica
+MedAbbr: Acta Gastroenterol Belg
+ISSN (Print): 0001-5644
+ISSN (Online): 
+IsoAbbr: Acta Gastroenterol. Belg.
+NlmId: 0414075
+--------------------------------------------------------
+JrId: 70
+JournalTitle: Acta gastroenterologica Latinoamericana
+MedAbbr: Acta Gastroenterol Latinoam
+ISSN (Print): 0300-9033
+ISSN (Online): 
+IsoAbbr: Acta Gastroenterol. Latinoam.
+NlmId: 0261505
+--------------------------------------------------------
+JrId: 71
+JournalTitle: Acta genetica et statistica medica
+MedAbbr: Acta Genet Stat Med
+ISSN (Print): 0567-7440
+ISSN (Online): 
+IsoAbbr: Acta Genet Stat Med
+NlmId: 0200600
+--------------------------------------------------------
+JrId: 72
+JournalTitle: Acta geneticae medicae et gemellologiae
+MedAbbr: Acta Genet Med Gemellol (Roma)
+ISSN (Print): 0001-5660
+ISSN (Online): 
+IsoAbbr: Acta Genet Med Gemellol (Roma)
+NlmId: 0370314
+--------------------------------------------------------
+JrId: 73
+JournalTitle: Acta gerontologica
+MedAbbr: Acta Gerontol (Milano)
+ISSN (Print): 0001-5741
+ISSN (Online): 
+IsoAbbr: Acta Gerontol (Milano)
+NlmId: 7501996
+--------------------------------------------------------
+JrId: 74
+JournalTitle: Acta ginecologica
+MedAbbr: Acta Ginecol (Madr)
+ISSN (Print): 0001-5776
+ISSN (Online): 
+IsoAbbr: Acta Ginecol (Madr)
+NlmId: 0370317
+--------------------------------------------------------
+JrId: 75
+JournalTitle: Acta gynaecologica et obstetrica Hispano-Lusitana
+MedAbbr: Acta Gynaecol Obstet Hisp Lusit
+ISSN (Print): 0001-5784
+ISSN (Online): 
+IsoAbbr: Acta Gynaecol Obstet Hisp Lusit
+NlmId: 0147664
+--------------------------------------------------------
+JrId: 76
+JournalTitle: Acta haematologica
+MedAbbr: Acta Haematol
+ISSN (Print): 0001-5792
+ISSN (Online): 1421-9662
+IsoAbbr: Acta Haematol.
+NlmId: 0141053
+--------------------------------------------------------
+JrId: 77
+JournalTitle: Nihon Ketsueki Gakkai zasshi : journal of Japan Haematological Society
+MedAbbr: Nihon Ketsueki Gakkai Zasshi
+ISSN (Print): 0001-5806
+ISSN (Online): 
+IsoAbbr: Nippon Ketsueki Gakkai Zasshi
+NlmId: 2984803R
+--------------------------------------------------------
+JrId: 78
+JournalTitle: Acta haematologica Polonica
+MedAbbr: Acta Haematol Pol
+ISSN (Print): 0001-5814
+ISSN (Online): 
+IsoAbbr: Acta Haematol Pol
+NlmId: 0262610
+--------------------------------------------------------
+JrId: 79
+JournalTitle: Acta hepato-gastroenterologica
+MedAbbr: Acta Hepatogastroenterol (Stuttg)
+ISSN (Print): 0300-970X
+ISSN (Online): 
+IsoAbbr: Acta Hepatogastroenterol (Stuttg)
+NlmId: 0340734
+--------------------------------------------------------
+JrId: 80
+JournalTitle: Acta historica scientiarum naturalium et medicinalium
+MedAbbr: Acta Hist Sci Nat Med
+ISSN (Print): 0065-1311
+ISSN (Online): 
+IsoAbbr: Acta Hist Sci Nat Med
+NlmId: 0416660
+--------------------------------------------------------
+JrId: 81
+JournalTitle: Acta histochemica
+MedAbbr: Acta Histochem
+ISSN (Print): 0065-1281
+ISSN (Online): 1618-0372
+IsoAbbr: Acta Histochem.
+NlmId: 0370320
+--------------------------------------------------------
+JrId: 82
+JournalTitle: Acta iberica radiologica-cancerologica
+MedAbbr: Acta Iber Radiol Cancerol
+ISSN (Print): 0001-589X
+ISSN (Online): 
+IsoAbbr: Acta Iber Radiol Cancerol
+NlmId: 0370321
+--------------------------------------------------------
+JrId: 83
+JournalTitle: Acta isotopica
+MedAbbr: Acta Isot (Padova)
+ISSN (Print): 0001-5911
+ISSN (Online): 
+IsoAbbr: Acta Isot (Padova)
+NlmId: 0421025
+--------------------------------------------------------
+JrId: 84
+JournalTitle: Acta Leidensia
+MedAbbr: Acta Leiden
+ISSN (Print): 0065-1362
+ISSN (Online): 
+IsoAbbr: Acta Leiden.
+NlmId: 0413650
+--------------------------------------------------------
+JrId: 85
+JournalTitle: Igaku kenkyu. Acta medica
+MedAbbr: Igaku Kenkyu
+ISSN (Print): 0076-597X
+ISSN (Online): 
+IsoAbbr: Igaku Kenkyu
+NlmId: 0421144
+--------------------------------------------------------
+JrId: 86
+JournalTitle: Acta medica Academiae Scientiarum Hungaricae
+MedAbbr: Acta Med Acad Sci Hung
+ISSN (Print): 0001-5989
+ISSN (Online): 
+IsoAbbr: Acta Med Acad Sci Hung
+NlmId: 0370323
+--------------------------------------------------------
+JrId: 87
+JournalTitle: Acta medica Austriaca
+MedAbbr: Acta Med Austriaca
+ISSN (Print): 0303-8173
+ISSN (Online): 1563-2571
+IsoAbbr: Acta Med. Austriaca
+NlmId: 7501997
+--------------------------------------------------------
+JrId: 88
+JournalTitle: Acta medica Austriaca. Supplement
+MedAbbr: Acta Med Austriaca Suppl
+ISSN (Print): 0303-8181
+ISSN (Online): 
+IsoAbbr: Acta Med Austriaca Suppl
+NlmId: 7502262
+--------------------------------------------------------
+JrId: 89
+JournalTitle: Acute care
+MedAbbr: Acute Care
+ISSN (Print): 0254-0819
+ISSN (Online): 
+IsoAbbr: Acute Care
+NlmId: 8412026
+--------------------------------------------------------
+JrId: 90
+JournalTitle: Acta medica et biologica
+MedAbbr: Acta Med Biol (Niigata)
+ISSN (Print): 0567-7734
+ISSN (Online): 
+IsoAbbr: Acta Med. Biol. (Niigata)
+NlmId: 0243663
+--------------------------------------------------------
+JrId: 91
+JournalTitle: Perspectives (Gerontological Nursing Association (Canada))
+MedAbbr: Perspectives
+ISSN (Print): 0831-7445
+ISSN (Online): 
+IsoAbbr: Perspectives
+NlmId: 8500942
+--------------------------------------------------------
+JrId: 92
+JournalTitle: Acta medica Italica di medicina tropicale e subtropicale e di gastroenterologia
+MedAbbr: Acta Med Ital Med Trop Subtrop Gastroenterol
+ISSN (Print): 0001-6039
+ISSN (Online): 
+IsoAbbr: Acta Med Ital Med Trop Subtrop Gastroenterol
+NlmId: 14540080R
+--------------------------------------------------------
+JrId: 93
+JournalTitle: Acta medica Iugoslavica
+MedAbbr: Acta Med Iugosl
+ISSN (Print): 0375-8338
+ISSN (Online): 
+IsoAbbr: Acta Med Iugosl
+NlmId: 0370324
+--------------------------------------------------------
+JrId: 94
+JournalTitle: Acta medicinae legalis et socialis
+MedAbbr: Acta Med Leg Soc (Liege)
+ISSN (Print): 0065-1397
+ISSN (Online): 
+IsoAbbr: Acta Med Leg Soc (Liege)
+NlmId: 7611894
+--------------------------------------------------------
+JrId: 95
+JournalTitle: Acta medica Nagasakiensia
+MedAbbr: Acta Med Nagasaki
+ISSN (Print): 0001-6055
+ISSN (Online): 
+IsoAbbr: Acta Med Nagasaki
+NlmId: 0372633
+--------------------------------------------------------
+JrId: 96
+JournalTitle: Family practice research journal
+MedAbbr: Fam Pract Res J
+ISSN (Print): 0270-2304
+ISSN (Online): 
+IsoAbbr: Fam Pract Res J
+NlmId: 8208228
+--------------------------------------------------------
+JrId: 97
+JournalTitle: Fetal therapy
+MedAbbr: Fetal Ther
+ISSN (Print): 0257-2788
+ISSN (Online): 
+IsoAbbr: Fetal Ther
+NlmId: 8700083
+--------------------------------------------------------
+JrId: 98
+JournalTitle: Gynecological endocrinology : the official journal of the International Society of Gynecological Endocrinology
+MedAbbr: Gynecol Endocrinol
+ISSN (Print): 0951-3590
+ISSN (Online): 1473-0766
+IsoAbbr: Gynecol. Endocrinol.
+NlmId: 8807913
+--------------------------------------------------------
+JrId: 99
+JournalTitle: International journal of developmental neuroscience : the official journal of the International Society for Developmental Neuroscience
+MedAbbr: Int J Dev Neurosci
+ISSN (Print): 0736-5748
+ISSN (Online): 1873-474X
+IsoAbbr: Int. J. Dev. Neurosci.
+NlmId: 8401784
+--------------------------------------------------------
+JrId: 100
+JournalTitle: The Journal of the American Board of Family Practice / American Board of Family Practice
+MedAbbr: J Am Board Fam Pract
+ISSN (Print): 0893-8652
+ISSN (Online): 1544-8770
+IsoAbbr: J Am Board Fam Pract
+NlmId: 8807505
+--------------------------------------------------------
+JrId: 101
+JournalTitle: Journal of biological regulators and homeostatic agents
+MedAbbr: J Biol Regul Homeost Agents
+ISSN (Print): 0393-974X
+ISSN (Online): 
+IsoAbbr: J. Biol. Regul. Homeost. Agents
+NlmId: 8809253
+--------------------------------------------------------
+JrId: 102
+JournalTitle: Journal of bioluminescence and chemiluminescence
+MedAbbr: J Biolumin Chemilumin
+ISSN (Print): 0884-3996
+ISSN (Online): 
+IsoAbbr: J. Biolumin. Chemilumin.
+NlmId: 8612490
+--------------------------------------------------------
+JrId: 103
+JournalTitle: Acta medica Okayama
+MedAbbr: Acta Med Okayama
+ISSN (Print): 0386-300X
+ISSN (Online): 
+IsoAbbr: Acta Med. Okayama
+NlmId: 0417611
+--------------------------------------------------------
+JrId: 104
+JournalTitle: Journal of bone and mineral research : the official journal of the American Society for Bone and Mineral Research
+MedAbbr: J Bone Miner Res
+ISSN (Print): 0884-0431
+ISSN (Online): 1523-4681
+IsoAbbr: J. Bone Miner. Res.
+NlmId: 8610640
+--------------------------------------------------------
+JrId: 105
+JournalTitle: Acta medica Philippina
+MedAbbr: Acta Med Philipp
+ISSN (Print): 0001-6071
+ISSN (Online): 
+IsoAbbr: Acta Med Philipp
+NlmId: 0312677
+--------------------------------------------------------
+JrId: 106
+JournalTitle: Acta medica Polona
+MedAbbr: Acta Med Pol
+ISSN (Print): 0001-608X
+ISSN (Online): 
+IsoAbbr: Acta Med Pol
+NlmId: 0370326
+--------------------------------------------------------
+JrId: 107
+JournalTitle: Acta medica portuguesa
+MedAbbr: Acta Med Port
+ISSN (Print): 0870-399X
+ISSN (Online): 1646-0758
+IsoAbbr: Acta Med Port
+NlmId: 7906803
+--------------------------------------------------------
+JrId: 108
+JournalTitle: Acta medica Scandinavica
+MedAbbr: Acta Med Scand
+ISSN (Print): 0001-6101
+ISSN (Online): 
+IsoAbbr: Acta Med Scand
+NlmId: 0370330
+--------------------------------------------------------
+JrId: 109
+JournalTitle: Acta medica Scandinavica. Supplementum
+MedAbbr: Acta Med Scand Suppl
+ISSN (Print): 0365-463X
+ISSN (Online): 
+IsoAbbr: Acta Med. Scand. Suppl.
+NlmId: 0370331
+--------------------------------------------------------
+JrId: 110
+JournalTitle: Acta medica veterinaria
+MedAbbr: Acta Med Vet (Napoli)
+ISSN (Print): 0001-6136
+ISSN (Online): 
+IsoAbbr: Acta Med Vet (Napoli)
+NlmId: 0000212
+--------------------------------------------------------
+JrId: 111
+JournalTitle: Acta microbiologica Academiae Scientiarum Hungaricae
+MedAbbr: Acta Microbiol Acad Sci Hung
+ISSN (Print): 0001-6187
+ISSN (Online): 
+IsoAbbr: Acta Microbiol Acad Sci Hung
+NlmId: 0370333
+--------------------------------------------------------
+JrId: 112
+JournalTitle: Acta microbiologica Bulgarica
+MedAbbr: Acta Microbiol Bulg
+ISSN (Print): 0204-8809
+ISSN (Online): 
+IsoAbbr: Acta Microbiol Bulg
+NlmId: 7901426
+--------------------------------------------------------
+JrId: 113
+JournalTitle: Acta microbiologica Polonica
+MedAbbr: Acta Microbiol Pol
+ISSN (Print): 0137-1320
+ISSN (Online): 
+IsoAbbr: Acta Microbiol. Pol.
+NlmId: 7610362
+--------------------------------------------------------
+JrId: 114
+JournalTitle: Acta microbiologica Polonica. Series A: Microbiologia generalis
+MedAbbr: Acta Microbiol Pol A
+ISSN (Print): 0567-7815
+ISSN (Online): 
+IsoAbbr: Acta Microbiol Pol A
+NlmId: 7610360
+--------------------------------------------------------
+JrId: 115
+JournalTitle: Acta microbiologica Polonica. Series B: Microbiologia applicata
+MedAbbr: Acta Microbiol Pol B
+ISSN (Print): 0567-7823
+ISSN (Online): 
+IsoAbbr: Acta Microbiol Pol B
+NlmId: 7610361
+--------------------------------------------------------
+JrId: 116
+JournalTitle: Acta morphologica Academiae Scientiarum Hungaricae
+MedAbbr: Acta Morphol Acad Sci Hung
+ISSN (Print): 0001-6217
+ISSN (Online): 
+IsoAbbr: Acta Morphol Acad Sci Hung
+NlmId: 0370334
+--------------------------------------------------------
+JrId: 118
+JournalTitle: Acta microbiologica, virologica et immunologica
+MedAbbr: Acta Microbiol Virol Immunol (Sofiia)
+ISSN (Print): 0324-0452
+ISSN (Online): 
+IsoAbbr: Acta Microbiol Virol Immunol (Sofiia)
+NlmId: 7600027
+--------------------------------------------------------
+JrId: 119
+JournalTitle: Acta morphologica Hungarica
+MedAbbr: Acta Morphol Hung
+ISSN (Print): 0236-5391
+ISSN (Online): 
+IsoAbbr: Acta Morphol Hung
+NlmId: 8307964
+--------------------------------------------------------
+JrId: 120
+JournalTitle: Acta morphologica Neerlando-Scandinavica
+MedAbbr: Acta Morphol Neerl Scand
+ISSN (Print): 0001-6225
+ISSN (Online): 
+IsoAbbr: Acta Morphol Neerl Scand
+NlmId: 0370335
+--------------------------------------------------------
+JrId: 121
+JournalTitle: Acta neurobiologiae experimentalis
+MedAbbr: Acta Neurobiol Exp (Wars)
+ISSN (Print): 0065-1400
+ISSN (Online): 1689-0035
+IsoAbbr: Acta Neurobiol Exp (Wars)
+NlmId: 1246675
+--------------------------------------------------------
+JrId: 122
+JournalTitle: Acta neurochirurgica
+MedAbbr: Acta Neurochir (Wien)
+ISSN (Print): 0001-6268
+ISSN (Online): 0942-0940
+IsoAbbr: Acta Neurochir (Wien)
+NlmId: 0151000
+--------------------------------------------------------
+JrId: 123
+JournalTitle: Acta neurochirurgica. Supplementum
+MedAbbr: Acta Neurochir Suppl (Wien)
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Acta Neurochir Suppl (Wien)
+NlmId: 0140560
+--------------------------------------------------------
+JrId: 124
+JournalTitle: Acta neurologica
+MedAbbr: Acta Neurol (Napoli)
+ISSN (Print): 0001-6276
+ISSN (Online): 
+IsoAbbr: Acta Neurol (Napoli)
+NlmId: 0421100
+--------------------------------------------------------
+JrId: 125
+JournalTitle: Acta rhumatologica
+MedAbbr: Acta Rhumatol
+ISSN (Print): 0250-4642
+ISSN (Online): 
+IsoAbbr: Acta Rhumatol
+NlmId: 7908064
+--------------------------------------------------------
+JrId: 126
+JournalTitle: Acta leprologica
+MedAbbr: Acta Leprol
+ISSN (Print): 0001-5938
+ISSN (Online): 
+IsoAbbr: Acta Leprol
+NlmId: 0037353
+--------------------------------------------------------
+JrId: 127
+JournalTitle: Acta microbiologica Hungarica
+MedAbbr: Acta Microbiol Hung
+ISSN (Print): 0231-4622
+ISSN (Online): 
+IsoAbbr: Acta Microbiol. Hung.
+NlmId: 8400270
+--------------------------------------------------------
+JrId: 128
+JournalTitle: Acta neurologica Belgica
+MedAbbr: Acta Neurol Belg
+ISSN (Print): 0300-9009
+ISSN (Online): 2240-2993
+IsoAbbr: Acta Neurol Belg
+NlmId: 0247035
+--------------------------------------------------------
+JrId: 129
+JournalTitle: Acta neurologica latinoamericana
+MedAbbr: Acta Neurol Latinoam
+ISSN (Print): 0001-6306
+ISSN (Online): 
+IsoAbbr: Acta Neurol Latinoam
+NlmId: 9421556
+--------------------------------------------------------
+JrId: 130
+JournalTitle: Acta neurologica. Quaderni
+MedAbbr: Acta Neurol Quad (Napoli)
+ISSN (Print): 0515-2976
+ISSN (Online): 
+IsoAbbr: Acta Neurol Quad (Napoli)
+NlmId: 7506814
+--------------------------------------------------------
+JrId: 131
+JournalTitle: Acta neurologica Scandinavica
+MedAbbr: Acta Neurol Scand
+ISSN (Print): 0001-6314
+ISSN (Online): 1600-0404
+IsoAbbr: Acta Neurol. Scand.
+NlmId: 0370336
+--------------------------------------------------------
+JrId: 132
+JournalTitle: Acta neurologica Scandinavica. Supplementum
+MedAbbr: Acta Neurol Scand Suppl
+ISSN (Print): 0065-1427
+ISSN (Online): 1600-5449
+IsoAbbr: Acta Neurol. Scand., Suppl.c
+NlmId: 0370337
+--------------------------------------------------------
+JrId: 133
+JournalTitle: Acta neuropathologica
+MedAbbr: Acta Neuropathol
+ISSN (Print): 0001-6322
+ISSN (Online): 1432-0533
+IsoAbbr: Acta Neuropathol.
+NlmId: 0412041
+--------------------------------------------------------
+JrId: 134
+JournalTitle: Acta neuropathologica. Supplementum
+MedAbbr: Acta Neuropathol Suppl
+ISSN (Print): 0065-1435
+ISSN (Online): 
+IsoAbbr: Acta Neuropathol Suppl
+NlmId: 0370342
+--------------------------------------------------------
+JrId: 135
+JournalTitle: Acta neurovegetativa
+MedAbbr: Acta Neuroveg (Wien)
+ISSN (Print): 0375-9245
+ISSN (Online): 
+IsoAbbr: Acta Neuroveg (Wien)
+NlmId: 0162324
+--------------------------------------------------------
+JrId: 136
+JournalTitle: Acta obstetrica y ginecologica hispano-lusitana
+MedAbbr: Acta Obstet Ginecol Hisp Lusit
+ISSN (Print): 0210-9832
+ISSN (Online): 
+IsoAbbr: Acta Obstet Ginecol Hisp Lusit
+NlmId: 0147634
+--------------------------------------------------------
+JrId: 137
+JournalTitle: Acta obstetrica y ginecologica hispano-lusitana. Suplemento
+MedAbbr: Acta Obstet Ginecol Hisp Lusit Suppl
+ISSN (Print): 0300-8940
+ISSN (Online): 
+IsoAbbr: Acta Obstet Ginecol Hisp Lusit Suppl
+NlmId: 0221541
+--------------------------------------------------------
+JrId: 138
+JournalTitle: Acta obstetrica et gynaecologica Japonica
+MedAbbr: Acta Obstet Gynaecol Jpn
+ISSN (Print): 0001-6330
+ISSN (Online): 
+IsoAbbr: Acta Obstet Gynaecol Jpn
+NlmId: 0202673
+--------------------------------------------------------
+JrId: 139
+JournalTitle: Acta obstetricia et gynecologica Scandinavica
+MedAbbr: Acta Obstet Gynecol Scand
+ISSN (Print): 0001-6349
+ISSN (Online): 1600-0412
+IsoAbbr: Acta Obstet Gynecol Scand
+NlmId: 0370343
+--------------------------------------------------------
+JrId: 140
+JournalTitle: Acta obstetricia et gynecologica Scandinavica. Supplement
+MedAbbr: Acta Obstet Gynecol Scand Suppl
+ISSN (Print): 0300-8835
+ISSN (Online): 
+IsoAbbr: Acta Obstet Gynecol Scand Suppl
+NlmId: 0337655
+--------------------------------------------------------
+JrId: 141
+JournalTitle: Acta odontologica Scandinavica
+MedAbbr: Acta Odontol Scand
+ISSN (Print): 0001-6357
+ISSN (Online): 1502-3850
+IsoAbbr: Acta Odontol. Scand.
+NlmId: 0370344
+--------------------------------------------------------
+JrId: 142
+JournalTitle: Acta odontologica Scandinavica. Supplementum
+MedAbbr: Acta Odontol Scand Suppl
+ISSN (Print): 0365-530X
+ISSN (Online): 
+IsoAbbr: Acta Odontol Scand Suppl
+NlmId: 0370345
+--------------------------------------------------------
+JrId: 143
+JournalTitle: Acta odontologica venezolana
+MedAbbr: Acta Odontol Venez
+ISSN (Print): 0001-6365
+ISSN (Online): 
+IsoAbbr: Acta Odontol Venez
+NlmId: 14540210R
+--------------------------------------------------------
+JrId: 144
+JournalTitle: Acta oncologica
+MedAbbr: Acta Oncol (Madr)
+ISSN (Print): 0001-6381
+ISSN (Online): 
+IsoAbbr: Acta Oncol (Madr)
+NlmId: 0370346
+--------------------------------------------------------
+JrId: 145
+JournalTitle: Acta ophthalmologica
+MedAbbr: Acta Ophthalmol (Copenh)
+ISSN (Print): 0001-639X
+ISSN (Online): 
+IsoAbbr: Acta Ophthalmol (Copenh)
+NlmId: 0370347
+--------------------------------------------------------
+JrId: 146
+JournalTitle: Acta ophthalmologica. Supplementum
+MedAbbr: Acta Ophthalmol Suppl
+ISSN (Print): 0065-1451
+ISSN (Online): 
+IsoAbbr: Acta Ophthalmol. Suppl.
+NlmId: 0370350
+--------------------------------------------------------
+JrId: 147
+JournalTitle: Acta orthopaedica Belgica
+MedAbbr: Acta Orthop Belg
+ISSN (Print): 0001-6462
+ISSN (Online): 
+IsoAbbr: Acta Orthop Belg
+NlmId: 2985165R
+--------------------------------------------------------
+JrId: 148
+JournalTitle: Acta orthopaedica Scandinavica
+MedAbbr: Acta Orthop Scand
+ISSN (Print): 0001-6470
+ISSN (Online): 
+IsoAbbr: Acta Orthop Scand
+NlmId: 0370352
+--------------------------------------------------------
+JrId: 149
+JournalTitle: Acta orthopaedica Scandinavica. Supplementum
+MedAbbr: Acta Orthop Scand Suppl
+ISSN (Print): 0300-8827
+ISSN (Online): 
+IsoAbbr: Acta Orthop Scand Suppl
+NlmId: 0370353
+--------------------------------------------------------
+JrId: 150
+JournalTitle: Acta oto-laryngologica
+MedAbbr: Acta Otolaryngol
+ISSN (Print): 0001-6489
+ISSN (Online): 1651-2251
+IsoAbbr: Acta Otolaryngol.
+NlmId: 0370354
+--------------------------------------------------------
+JrId: 151
+JournalTitle: Acta oto-laryngologica. Supplementum
+MedAbbr: Acta Otolaryngol Suppl
+ISSN (Print): 0365-5237
+ISSN (Online): 
+IsoAbbr: Acta Otolaryngol Suppl
+NlmId: 0370355
+--------------------------------------------------------
+JrId: 152
+JournalTitle: Acta oto-rhino-laryngologica Belgica
+MedAbbr: Acta Otorhinolaryngol Belg
+ISSN (Print): 0001-6497
+ISSN (Online): 
+IsoAbbr: Acta Otorhinolaryngol Belg
+NlmId: 0373057
+--------------------------------------------------------
+JrId: 153
+JournalTitle: Acta otorhinolaryngologica Italica : organo ufficiale della Societa italiana di otorinolaringologia e chirurgia cervico-facciale
+MedAbbr: Acta Otorhinolaryngol Ital
+ISSN (Print): 0392-100X
+ISSN (Online): 1827-675X
+IsoAbbr: Acta Otorhinolaryngol Ital
+NlmId: 8213019
+--------------------------------------------------------
+JrId: 154
+JournalTitle: Acta oto-rino-laringologica ibero-americana
+MedAbbr: Acta Otorinolaryngol Iber Am
+ISSN (Print): 0001-6500
+ISSN (Online): 
+IsoAbbr: Acta Otorinolaryngol Iber Am
+NlmId: 7610363
+--------------------------------------------------------
+JrId: 155
+JournalTitle: Acta paediatrica Academiae Scientiarum Hungaricae
+MedAbbr: Acta Paediatr Acad Sci Hung
+ISSN (Print): 0001-6527
+ISSN (Online): 
+IsoAbbr: Acta Paediatr Acad Sci Hung
+NlmId: 0372634
+--------------------------------------------------------
+JrId: 156
+JournalTitle: Acta paediatrica Belgica
+MedAbbr: Acta Paediatr Belg
+ISSN (Print): 0001-6535
+ISSN (Online): 
+IsoAbbr: Acta Paediatr Belg
+NlmId: 0372635
+--------------------------------------------------------
+JrId: 157
+JournalTitle: Nihon Shonika Gakkai zasshi. Acta paediatrica Japonica
+MedAbbr: Nihon Shonika Gakkai Zasshi
+ISSN (Print): 0001-6543
+ISSN (Online): 
+IsoAbbr: Nihon Shonika Gakkai Zasshi
+NlmId: 0413547
+--------------------------------------------------------
+JrId: 158
+JournalTitle: Acta paediatrica Japonica; Overseas edition
+MedAbbr: Acta Paediatr Jpn
+ISSN (Print): 0374-5600
+ISSN (Online): 
+IsoAbbr: Acta Paediatr Jpn
+NlmId: 0370357
+--------------------------------------------------------
+JrId: 159
+JournalTitle: Acta paediatrica Scandinavica
+MedAbbr: Acta Paediatr Scand
+ISSN (Print): 0001-656X
+ISSN (Online): 
+IsoAbbr: Acta Paediatr Scand
+NlmId: 0000211
+--------------------------------------------------------
+JrId: 160
+JournalTitle: Acta paediatrica Scandinavica. Supplement
+MedAbbr: Acta Paediatr Scand Suppl
+ISSN (Print): 0300-8843
+ISSN (Online): 
+IsoAbbr: Acta Paediatr Scand Suppl
+NlmId: 0173166
+--------------------------------------------------------
+JrId: 161
+JournalTitle: Zhonghua Minguo xiao er ke yi xue hui za zhi [Journal]. Zhonghua Minguo xiao er ke yi xue hui
+MedAbbr: Zhonghua Min Guo Xiao Er Ke Yi Xue Hui Za Zhi
+ISSN (Print): 0001-6578
+ISSN (Online): 
+IsoAbbr: Zhonghua Min Guo Xiao Er Ke Yi Xue Hui Za Zhi
+NlmId: 16210470R
+--------------------------------------------------------
+JrId: 162
+JournalTitle: Acta paedopsychiatrica
+MedAbbr: Acta Paedopsychiatr
+ISSN (Print): 0001-6586
+ISSN (Online): 
+IsoAbbr: Acta Paedopsychiatr
+NlmId: 0400661
+--------------------------------------------------------
+JrId: 163
+JournalTitle: Series paedopsychiatrica
+MedAbbr: Ser Paedopsychiatr
+ISSN (Print): 0080-9012
+ISSN (Online): 
+IsoAbbr: Ser Paedopsychiatr
+NlmId: 0036662
+--------------------------------------------------------
+JrId: 164
+JournalTitle: Acta pathologica japonica
+MedAbbr: Acta Pathol Jpn
+ISSN (Print): 0001-6632
+ISSN (Online): 
+IsoAbbr: Acta Pathol. Jpn.
+NlmId: 0372637
+--------------------------------------------------------
+JrId: 165
+JournalTitle: Acta pathologica et microbiologica Scandinavica
+MedAbbr: Acta Pathol Microbiol Scand
+ISSN (Print): 0365-5555
+ISSN (Online): 
+IsoAbbr: Acta Pathol Microbiol Scand
+NlmId: 7508471
+--------------------------------------------------------
+JrId: 166
+JournalTitle: Acta pathologica et microbiologica Scandinavica. Section A, Pathology
+MedAbbr: Acta Pathol Microbiol Scand A
+ISSN (Print): 0365-4184
+ISSN (Online): 
+IsoAbbr: Acta Pathol Microbiol Scand A
+NlmId: 7508468
+--------------------------------------------------------
+JrId: 167
+JournalTitle: Acta pathologica et microbiologica Scandinavica. Section B, Microbiology
+MedAbbr: Acta Pathol Microbiol Scand B
+ISSN (Print): 0105-0656
+ISSN (Online): 
+IsoAbbr: Acta Pathol Microbiol Scand B
+NlmId: 7508472
+--------------------------------------------------------
+JrId: 168
+JournalTitle: Acta pathologica et microbiologica Scandinavica. Section C, Immunology
+MedAbbr: Acta Pathol Microbiol Scand C
+ISSN (Print): 0304-1328
+ISSN (Online): 
+IsoAbbr: Acta Pathol Microbiol Scand C
+NlmId: 7508469
+--------------------------------------------------------
+JrId: 169
+JournalTitle: Acta pathologica et microbiologica Scandinavica. Supplement
+MedAbbr: Acta Pathol Microbiol Scand Suppl
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Acta Pathol Microbiol Scand Suppl
+NlmId: 8211440
+--------------------------------------------------------
+JrId: 170
+JournalTitle: Acta pathologica, microbiologica, et immunologica Scandinavica. Supplement
+MedAbbr: Acta Pathol Microbiol Immunol Scand Suppl
+ISSN (Print): 0108-0172
+ISSN (Online): 
+IsoAbbr: Acta Pathol Microbiol Immunol Scand Suppl
+NlmId: 8211441
+--------------------------------------------------------
+JrId: 171
+JournalTitle: Acta pediatrica espanola
+MedAbbr: Acta Pediatr Esp
+ISSN (Print): 0001-6640
+ISSN (Online): 2014-2986
+IsoAbbr: Acta Pediatr Esp
+NlmId: 0405466
+--------------------------------------------------------
+JrId: 172
+JournalTitle: Acta pathologica, microbiologica, et immunologica Scandinavica. Section A, Pathology
+MedAbbr: Acta Pathol Microbiol Immunol Scand A
+ISSN (Print): 0108-0164
+ISSN (Online): 
+IsoAbbr: Acta Pathol Microbiol Immunol Scand A
+NlmId: 8206622
+--------------------------------------------------------
+JrId: 173
+JournalTitle: Acta pathologica, microbiologica, et immunologica Scandinavica. Section B, Microbiology
+MedAbbr: Acta Pathol Microbiol Immunol Scand B
+ISSN (Print): 0108-0180
+ISSN (Online): 
+IsoAbbr: Acta Pathol Microbiol Immunol Scand B
+NlmId: 8206623
+--------------------------------------------------------
+JrId: 174
+JournalTitle: Acta pathologica, microbiologica, et immunologica Scandinavica. Section C, Immunology
+MedAbbr: Acta Pathol Microbiol Immunol Scand C
+ISSN (Print): 0108-0202
+ISSN (Online): 
+IsoAbbr: Acta Pathol Microbiol Immunol Scand C
+NlmId: 8206624
+--------------------------------------------------------
+JrId: 175
+JournalTitle: Acta pharmaceutica Hungarica
+MedAbbr: Acta Pharm Hung
+ISSN (Print): 0001-6659
+ISSN (Online): 
+IsoAbbr: Acta Pharm Hung
+NlmId: 0414322
+--------------------------------------------------------
+JrId: 176
+JournalTitle: Zhongguo yao li xue bao = Acta pharmacologica Sinica
+MedAbbr: Zhongguo Yao Li Xue Bao
+ISSN (Print): 0253-9756
+ISSN (Online): 
+IsoAbbr: Zhongguo Yao Li Xue Bao
+NlmId: 8100330
+--------------------------------------------------------
+JrId: 177
+JournalTitle: Yao xue xue bao = Acta pharmaceutica Sinica
+MedAbbr: Yao Xue Xue Bao
+ISSN (Print): 0513-4870
+ISSN (Online): 
+IsoAbbr: Yao Xue Xue Bao
+NlmId: 21710340R
+--------------------------------------------------------
+JrId: 178
+JournalTitle: Acta pharmaceutica Suecica
+MedAbbr: Acta Pharm Suec
+ISSN (Print): 0001-6675
+ISSN (Online): 
+IsoAbbr: Acta Pharm. Suec.
+NlmId: 0000216
+--------------------------------------------------------
+JrId: 179
+JournalTitle: Acta pharmacologica et toxicologica
+MedAbbr: Acta Pharmacol Toxicol (Copenh)
+ISSN (Print): 0001-6683
+ISSN (Online): 
+IsoAbbr: Acta Pharmacol Toxicol (Copenh)
+NlmId: 0370572
+--------------------------------------------------------
+JrId: 180
+JournalTitle: Acta physiologica Academiae Scientiarum Hungaricae
+MedAbbr: Acta Physiol Acad Sci Hung
+ISSN (Print): 0001-6756
+ISSN (Online): 
+IsoAbbr: Acta Physiol Acad Sci Hung
+NlmId: 0371156
+--------------------------------------------------------
+JrId: 181
+JournalTitle: Acta physiologica Hungarica
+MedAbbr: Acta Physiol Hung
+ISSN (Print): 0231-424X
+ISSN (Online): 1588-2683
+IsoAbbr: Acta Physiol Hung
+NlmId: 8309201
+--------------------------------------------------------
+JrId: 182
+JournalTitle: Acta physiologica latino americana
+MedAbbr: Acta Physiol Lat Am
+ISSN (Print): 0001-6764
+ISSN (Online): 
+IsoAbbr: Acta Physiol Lat Am
+NlmId: 0060610
+--------------------------------------------------------
+JrId: 183
+JournalTitle: Acta physiologica et pharmacologica Bulgarica
+MedAbbr: Acta Physiol Pharmacol Bulg
+ISSN (Print): 0323-9950
+ISSN (Online): 
+IsoAbbr: Acta Physiol Pharmacol Bulg
+NlmId: 7512568
+--------------------------------------------------------
+JrId: 184
+JournalTitle: Acta physiologica et pharmacologica latinoamericana : organo de la Asociacion Latinoamericana de Ciencias Fisiologicas y de la Asociacion Latinoamericana de Farmacologia
+MedAbbr: Acta Physiol Pharmacol Latinoam
+ISSN (Print): 0326-6656
+ISSN (Online): 
+IsoAbbr: Acta Physiol Pharmacol Latinoam
+NlmId: 8409686
+--------------------------------------------------------
+JrId: 185
+JournalTitle: Acta physiologica et pharmacologica Neerlandica
+MedAbbr: Acta Physiol Pharmacol Neerl
+ISSN (Print): 0001-6748
+ISSN (Online): 
+IsoAbbr: Acta Physiol Pharmacol Neerl
+NlmId: 14610130R
+--------------------------------------------------------
+JrId: 186
+JournalTitle: Acta physiologica Polonica
+MedAbbr: Acta Physiol Pol
+ISSN (Print): 0044-6033
+ISSN (Online): 
+IsoAbbr: Acta Physiol Pol
+NlmId: 2985166R
+--------------------------------------------------------
+JrId: 187
+JournalTitle: Acta physiologica Scandinavica
+MedAbbr: Acta Physiol Scand
+ISSN (Print): 0001-6772
+ISSN (Online): 1365-201X
+IsoAbbr: Acta Physiol. Scand.
+NlmId: 0370362
+--------------------------------------------------------
+JrId: 188
+JournalTitle: Acta physiologica Scandinavica. Supplementum
+MedAbbr: Acta Physiol Scand Suppl
+ISSN (Print): 0302-2994
+ISSN (Online): 
+IsoAbbr: Acta Physiol Scand Suppl
+NlmId: 0376307
+--------------------------------------------------------
+JrId: 189
+JournalTitle: Acta poloniae pharmaceutica
+MedAbbr: Acta Pol Pharm
+ISSN (Print): 0001-6837
+ISSN (Online): 
+IsoAbbr: Acta Pol Pharm
+NlmId: 2985167R
+--------------------------------------------------------
+JrId: 190
+JournalTitle: Acta psiquiatrica y psicologica de America latina
+MedAbbr: Acta Psiquiatr Psicol Am Lat
+ISSN (Print): 0001-6896
+ISSN (Online): 
+IsoAbbr: Acta Psiquiatr Psicol Am Lat
+NlmId: 0373060
+--------------------------------------------------------
+JrId: 191
+JournalTitle: Acta psychiatrica Belgica
+MedAbbr: Acta Psychiatr Belg
+ISSN (Print): 0300-8967
+ISSN (Online): 
+IsoAbbr: Acta Psychiatr Belg
+NlmId: 0247037
+--------------------------------------------------------
+JrId: 192
+JournalTitle: Acta psychiatrica Scandinavica
+MedAbbr: Acta Psychiatr Scand
+ISSN (Print): 0001-690X
+ISSN (Online): 1600-0447
+IsoAbbr: Acta Psychiatr Scand
+NlmId: 0370364
+--------------------------------------------------------
+JrId: 193
+JournalTitle: Acta psychiatrica Scandinavica. Supplementum
+MedAbbr: Acta Psychiatr Scand Suppl
+ISSN (Print): 0065-1591
+ISSN (Online): 1600-5473
+IsoAbbr: Acta Psychiatr Scand Suppl
+NlmId: 0370365
+--------------------------------------------------------
+JrId: 194
+JournalTitle: Acta psychologica
+MedAbbr: Acta Psychol (Amst)
+ISSN (Print): 0001-6918
+ISSN (Online): 1873-6297
+IsoAbbr: Acta Psychol (Amst)
+NlmId: 0370366
+--------------------------------------------------------
+JrId: 195
+JournalTitle: Acta rhumatologica Belgica
+MedAbbr: Acta Rhumatol Belg
+ISSN (Print): 0378-9497
+ISSN (Online): 
+IsoAbbr: Acta Rhumatol Belg
+NlmId: 7903226
+--------------------------------------------------------
+JrId: 196
+JournalTitle: Acta radiologica: diagnosis
+MedAbbr: Acta Radiol Diagn (Stockh)
+ISSN (Print): 0567-8056
+ISSN (Online): 
+IsoAbbr: Acta Radiol Diagn (Stockh)
+NlmId: 0370367
+--------------------------------------------------------
+JrId: 197
+JournalTitle: Acta radiologica. Supplementum
+MedAbbr: Acta Radiol Suppl
+ISSN (Print): 0365-5954
+ISSN (Online): 
+IsoAbbr: Acta Radiol Suppl
+NlmId: 0370370
+--------------------------------------------------------
+JrId: 198
+JournalTitle: Acta radiologica: therapy, physics, biology
+MedAbbr: Acta Radiol Ther Phys Biol
+ISSN (Print): 0567-8064
+ISSN (Online): 
+IsoAbbr: Acta Radiol Ther Phys Biol
+NlmId: 0000201
+--------------------------------------------------------
+JrId: 199
+JournalTitle: Acta radiologica: oncology, radiation, physics, biology
+MedAbbr: Acta Radiol Oncol Radiat Phys Biol
+ISSN (Print): 0348-5196
+ISSN (Online): 
+IsoAbbr: Acta Radiol Oncol Radiat Phys Biol
+NlmId: 7805897
+--------------------------------------------------------
+JrId: 200
+JournalTitle: Acta radiologica. Oncology
+MedAbbr: Acta Radiol Oncol
+ISSN (Print): 0349-652X
+ISSN (Online): 
+IsoAbbr: Acta Radiol Oncol
+NlmId: 8209606
+--------------------------------------------------------
+JrId: 201
+JournalTitle: Acta medica Iranica
+MedAbbr: Acta Med Iran
+ISSN (Print): 0044-6025
+ISSN (Online): 1735-9694
+IsoAbbr: Acta Med Iran
+NlmId: 14540050R
+--------------------------------------------------------
+JrId: 202
+JournalTitle: Acta rheumatologica Scandinavica
+MedAbbr: Acta Rheumatol Scand
+ISSN (Print): 0001-6934
+ISSN (Online): 
+IsoAbbr: Acta Rheumatol Scand
+NlmId: 0321403
+--------------------------------------------------------
+JrId: 203
+JournalTitle: Acta Scholae Medicinalis Universitatis in Kioto
+MedAbbr: Acta Sch Med Univ Kioto
+ISSN (Print): 0001-6950
+ISSN (Online): 
+IsoAbbr: Acta Sch Med Univ Kioto
+NlmId: 7611898
+--------------------------------------------------------
+JrId: 204
+JournalTitle: Acta Societatis Medicorum Upsaliensis
+MedAbbr: Acta Soc Med Ups
+ISSN (Print): 0001-6985
+ISSN (Online): 
+IsoAbbr: Acta Soc Med Ups
+NlmId: 0332127
+--------------------------------------------------------
+JrId: 205
+JournalTitle: Acta stomatologica internationalia : revue scientifique et bulletin officiel de l'Association stomatologique internationale
+MedAbbr: Acta Stomatol Int
+ISSN (Print): 0255-4410
+ISSN (Online): 
+IsoAbbr: Acta Stomatol Int
+NlmId: 8807267
+--------------------------------------------------------
+JrId: 206
+JournalTitle: Nippon Ganka Gakkai zasshi
+MedAbbr: Nihon Ganka Gakkai Zasshi
+ISSN (Print): 0029-0203
+ISSN (Online): 
+IsoAbbr: Nippon Ganka Gakkai Zasshi
+NlmId: 7505716
+--------------------------------------------------------
+JrId: 207
+JournalTitle: Acta socio-medica Scandinavica
+MedAbbr: Acta Sociomed Scand
+ISSN (Print): 0044-6041
+ISSN (Online): 
+IsoAbbr: Acta Sociomed Scand
+NlmId: 2985168R
+--------------------------------------------------------
+JrId: 208
+JournalTitle: Acta stomatologica Belgica
+MedAbbr: Acta Stomatol Belg
+ISSN (Print): 0001-7000
+ISSN (Online): 
+IsoAbbr: Acta Stomatol Belg
+NlmId: 0421026
+--------------------------------------------------------
+JrId: 209
+JournalTitle: Acta stomatologica Croatica
+MedAbbr: Acta Stomatol Croat
+ISSN (Print): 0001-7019
+ISSN (Online): 
+IsoAbbr: Acta Stomatol Croat
+NlmId: 0253456
+--------------------------------------------------------
+JrId: 210
+JournalTitle: Acta theriologica
+MedAbbr: Acta Theriol (Warsz)
+ISSN (Print): 0001-7051
+ISSN (Online): 2190-3743
+IsoAbbr: Acta Theriol.
+NlmId: 0314001
+--------------------------------------------------------
+JrId: 211
+JournalTitle: Acta tropica
+MedAbbr: Acta Trop
+ISSN (Print): 0001-706X
+ISSN (Online): 1873-6254
+IsoAbbr: Acta Trop.
+NlmId: 0370374
+--------------------------------------------------------
+JrId: 212
+JournalTitle: Acta tropica. Supplementum
+MedAbbr: Acta Trop Suppl
+ISSN (Print): 0365-1541
+ISSN (Online): 
+IsoAbbr: Acta Trop Suppl
+NlmId: 7611896
+--------------------------------------------------------
+JrId: 213
+JournalTitle: Acta tuberculosea et pneumologica Belgica
+MedAbbr: Acta Tuberc Pneumol Belg
+ISSN (Print): 0001-7078
+ISSN (Online): 
+IsoAbbr: Acta Tuberc Pneumol Belg
+NlmId: 0370376
+--------------------------------------------------------
+JrId: 214
+JournalTitle: Acta tuberculosea Japonica
+MedAbbr: Acta Tuberc Jpn
+ISSN (Print): 0567-8161
+ISSN (Online): 
+IsoAbbr: Acta Tuberc Jpn
+NlmId: 0157725
+--------------------------------------------------------
+JrId: 215
+JournalTitle: Acta tuberculosea et pneumologica Scandinavica
+MedAbbr: Acta Tuberc Pneumol Scand
+ISSN (Print): 0365-7531
+ISSN (Online): 
+IsoAbbr: Acta Tuberc Pneumol Scand
+NlmId: 0064362
+--------------------------------------------------------
+JrId: 216
+JournalTitle: Acta Universitatis Carolinae. Medica
+MedAbbr: Acta Univ Carol Med (Praha)
+ISSN (Print): 0001-7116
+ISSN (Online): 
+IsoAbbr: Acta Univ Carol Med (Praha)
+NlmId: 2985169R
+--------------------------------------------------------
+JrId: 217
+JournalTitle: Acta Universitatis Carolinae. Medica. Monographia
+MedAbbr: Acta Univ Carol Med Monogr
+ISSN (Print): 0567-8250
+ISSN (Online): 
+IsoAbbr: Acta Univ Carol Med Monogr
+NlmId: 0177667
+--------------------------------------------------------
+JrId: 218
+JournalTitle: Acta urologica Belgica
+MedAbbr: Acta Urol Belg
+ISSN (Print): 0001-7183
+ISSN (Online): 
+IsoAbbr: Acta Urol Belg
+NlmId: 0377045
+--------------------------------------------------------
+JrId: 219
+JournalTitle: Hinyokika kiyo. Acta urologica Japonica
+MedAbbr: Hinyokika Kiyo
+ISSN (Print): 0018-1994
+ISSN (Online): 
+IsoAbbr: Hinyokika Kiyo
+NlmId: 0421145
+--------------------------------------------------------
+JrId: 220
+JournalTitle: Acta veterinaria Academiae Scientiarum Hungaricae
+MedAbbr: Acta Vet Acad Sci Hung
+ISSN (Print): 0001-7205
+ISSN (Online): 
+IsoAbbr: Acta Vet Acad Sci Hung
+NlmId: 0370377
+--------------------------------------------------------
+JrId: 221
+JournalTitle: Acta veterinaria Hungarica
+MedAbbr: Acta Vet Hung
+ISSN (Print): 0236-6290
+ISSN (Online): 
+IsoAbbr: Acta Vet. Hung.
+NlmId: 8406376
+--------------------------------------------------------
+JrId: 222
+JournalTitle: Acta veterinaria Scandinavica
+MedAbbr: Acta Vet Scand
+ISSN (Print): 0044-605X
+ISSN (Online): 1751-0147
+IsoAbbr: Acta Vet. Scand.
+NlmId: 0370400
+--------------------------------------------------------
+JrId: 223
+JournalTitle: Acta veterinaria Scandinavica. Supplementum
+MedAbbr: Acta Vet Scand Suppl
+ISSN (Print): 0065-1699
+ISSN (Online): 
+IsoAbbr: Acta Vet Scand Suppl
+NlmId: 0061331
+--------------------------------------------------------
+JrId: 224
+JournalTitle: Acta virologica
+MedAbbr: Acta Virol
+ISSN (Print): 0001-723X
+ISSN (Online): 1336-2305
+IsoAbbr: Acta Virol.
+NlmId: 0370401
+--------------------------------------------------------
+JrId: 225
+JournalTitle: Acta vitaminologica et enzymologica
+MedAbbr: Acta Vitaminol Enzymol
+ISSN (Print): 0300-8924
+ISSN (Online): 
+IsoAbbr: Acta Vitaminol. Enzymol.
+NlmId: 0135063
+--------------------------------------------------------
+JrId: 226
+JournalTitle: Acta zoologica et pathologica Antverpiensia
+MedAbbr: Acta Zool Pathol Antverp
+ISSN (Print): 0001-7280
+ISSN (Online): 
+IsoAbbr: Acta Zool Pathol Antverp
+NlmId: 0100314
+--------------------------------------------------------
+JrId: 228
+JournalTitle: The African journal of psychiatry
+MedAbbr: Afr J Psychiatry
+ISSN (Print): 0331-0175
+ISSN (Online): 
+IsoAbbr: Afr J Psychiatry
+NlmId: 7802295
+--------------------------------------------------------
+JrId: 229
+JournalTitle: Actas dermo-sifiliograficas
+MedAbbr: Actas Dermosifiliogr
+ISSN (Print): 0001-7310
+ISSN (Online): 1578-2190
+IsoAbbr: Actas Dermosifiliogr
+NlmId: 0373062
+--------------------------------------------------------
+JrId: 230
+JournalTitle: Actas urologicas espanolas
+MedAbbr: Actas Urol Esp
+ISSN (Print): 0210-4806
+ISSN (Online): 1699-7980
+IsoAbbr: Actas Urol Esp
+NlmId: 7704993
+--------------------------------------------------------
+JrId: 231
+JournalTitle: Acta Universitatis Palackianae Olomucensis Facultatis Medicae
+MedAbbr: Acta Univ Palacki Olomuc Fac Med
+ISSN (Print): 0301-2514
+ISSN (Online): 
+IsoAbbr: Acta Univ Palacki Olomuc Fac Med
+NlmId: 0363112
+--------------------------------------------------------
+JrId: 232
+JournalTitle: Actas luso-espanolas de neurologia, psiquiatria y ciencias afines
+MedAbbr: Actas Luso Esp Neurol Psiquiatr Cienc Afines
+ISSN (Print): 0300-5062
+ISSN (Online): 
+IsoAbbr: Actas Luso Esp Neurol Psiquiatr Cienc Afines
+NlmId: 0355573
+--------------------------------------------------------
+JrId: 234
+JournalTitle: Actas luso-espanolas de neurologia y psiquiatria
+MedAbbr: Actas Luso Esp Neurol Psiquiatr
+ISSN (Print): 0001-7329
+ISSN (Online): 
+IsoAbbr: Actas Luso Esp Neurol Psiquiatr
+NlmId: 0355646
+--------------------------------------------------------
+JrId: 235
+JournalTitle: Actualites cardiologiques et angeiologiques internationales
+MedAbbr: Actual Cardiol Angeiol Int (Paris)
+ISSN (Print): 0365-1045
+ISSN (Online): 
+IsoAbbr: Actual Cardiol Angeiol Int (Paris)
+NlmId: 0143027
+--------------------------------------------------------
+JrId: 236
+JournalTitle: Actualites endocrinologiques
+MedAbbr: Actual Endocrinol (Paris)
+ISSN (Print): 0065-1826
+ISSN (Online): 
+IsoAbbr: Actual Endocrinol (Paris)
+NlmId: 0370405
+--------------------------------------------------------
+JrId: 237
+JournalTitle: Actualites hepato-gastro-enterologiques
+MedAbbr: Actual Hepatogastroenterol (Paris)
+ISSN (Print): 0240-8007
+ISSN (Online): 
+IsoAbbr: Actual Hepatogastroenterol (Paris)
+NlmId: 0264367
+--------------------------------------------------------
+JrId: 238
+JournalTitle: Actualites neurophysiologiques
+MedAbbr: Actual Neurophysiol (Paris)
+ISSN (Print): 0567-882X
+ISSN (Online): 
+IsoAbbr: Actual Neurophysiol (Paris)
+NlmId: 7513548
+--------------------------------------------------------
+JrId: 239
+JournalTitle: Actualites odonto-stomatologiques
+MedAbbr: Actual Odontostomatol (Paris)
+ISSN (Print): 0001-7817
+ISSN (Online): 1760-611X
+IsoAbbr: Actual Odontostomatol (Paris)
+NlmId: 0370406
+--------------------------------------------------------
+JrId: 240
+JournalTitle: Actualidad pediatrica; revista de bibliografia internacional
+MedAbbr: Actual Pediatr (Granada)
+ISSN (Print): 0001-7671
+ISSN (Online): 
+IsoAbbr: Actual Pediatr (Granada)
+NlmId: 2985171R
+--------------------------------------------------------
+JrId: 241
+JournalTitle: Actualites pharmacologiques
+MedAbbr: Actual Pharmacol (Paris)
+ISSN (Print): 0567-8854
+ISSN (Online): 
+IsoAbbr: Actual Pharmacol (Paris)
+NlmId: 0370407
+--------------------------------------------------------
+JrId: 242
+JournalTitle: Acupuncture & electro-therapeutics research
+MedAbbr: Acupunct Electrother Res
+ISSN (Print): 0360-1293
+ISSN (Online): 
+IsoAbbr: Acupunct Electrother Res
+NlmId: 7610364
+--------------------------------------------------------
+JrId: 243
+JournalTitle: Actualites de physiologie pathologique
+MedAbbr: Actual Physiol Pathol (Paris)
+ISSN (Print): 0567-8714
+ISSN (Online): 
+IsoAbbr: Actual Physiol Pathol (Paris)
+NlmId: 7611901
+--------------------------------------------------------
+JrId: 244
+JournalTitle: Addictive behaviors
+MedAbbr: Addict Behav
+ISSN (Print): 0306-4603
+ISSN (Online): 1873-6327
+IsoAbbr: Addict Behav
+NlmId: 7603486
+--------------------------------------------------------
+JrId: 245
+JournalTitle: Advance data
+MedAbbr: Adv Data
+ISSN (Print): 0147-3956
+ISSN (Online): 1933-3889
+IsoAbbr: Adv Data
+NlmId: 7703830
+--------------------------------------------------------
+JrId: 246
+JournalTitle: ADM; revista de la Asociacion Dental Mexicana
+MedAbbr: ADM
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: ADM
+NlmId: 0370411
+--------------------------------------------------------
+JrId: 247
+JournalTitle: Administration in social work
+MedAbbr: Adm Soc Work
+ISSN (Print): 0364-3107
+ISSN (Online): 1544-4376
+IsoAbbr: Adm Soc Work
+NlmId: 7800009
+--------------------------------------------------------
+JrId: 248
+JournalTitle: Addictive diseases
+MedAbbr: Addict Dis
+ISSN (Print): 0094-0267
+ISSN (Online): 
+IsoAbbr: Addict Dis
+NlmId: 0425064
+--------------------------------------------------------
+JrId: 249
+JournalTitle: Administrative science quarterly
+MedAbbr: Adm Sci Q
+ISSN (Print): 0001-8392
+ISSN (Online): 
+IsoAbbr: Adm Sci Q
+NlmId: 0240207
+--------------------------------------------------------
+JrId: 250
+JournalTitle: Adolescence
+MedAbbr: Adolescence
+ISSN (Print): 0001-8449
+ISSN (Online): 
+IsoAbbr: Adolescence
+NlmId: 0123667
+--------------------------------------------------------
+JrId: 251
+JournalTitle: Adult education
+MedAbbr: Adult Educ
+ISSN (Print): 0001-8481
+ISSN (Online): 
+IsoAbbr: Adult Educ
+NlmId: 9877760
+--------------------------------------------------------
+JrId: 252
+JournalTitle: Advances in anatomy, embryology, and cell biology
+MedAbbr: Adv Anat Embryol Cell Biol
+ISSN (Print): 0301-5556
+ISSN (Online): 
+IsoAbbr: Adv Anat Embryol Cell Biol
+NlmId: 0407712
+--------------------------------------------------------
+JrId: 253
+JournalTitle: Advances in applied microbiology
+MedAbbr: Adv Appl Microbiol
+ISSN (Print): 0065-2164
+ISSN (Online): 
+IsoAbbr: Adv. Appl. Microbiol.
+NlmId: 0370413
+--------------------------------------------------------
+JrId: 254
+JournalTitle: Administration in mental health
+MedAbbr: Adm Ment Health
+ISSN (Print): 0090-1180
+ISSN (Online): 
+IsoAbbr: Adm Ment Health
+NlmId: 0361564
+--------------------------------------------------------
+JrId: 255
+JournalTitle: Advances in biochemical psychopharmacology
+MedAbbr: Adv Biochem Psychopharmacol
+ISSN (Print): 0065-2229
+ISSN (Online): 
+IsoAbbr: Adv. Biochem. Psychopharmacol.
+NlmId: 0211233
+--------------------------------------------------------
+JrId: 256
+JournalTitle: Advances in biological and medical physics
+MedAbbr: Adv Biol Med Phys
+ISSN (Print): 0065-2245
+ISSN (Online): 
+IsoAbbr: Adv Biol Med Phys
+NlmId: 0370414
+--------------------------------------------------------
+JrId: 257
+JournalTitle: Lifelong learning, the adult years / Adult Education Association of the United States of America
+MedAbbr: Lifelong Learn Adult Years
+ISSN (Print): 0148-2165
+ISSN (Online): 
+IsoAbbr: Lifelong Learn Adult Years
+NlmId: 9877808
+--------------------------------------------------------
+JrId: 258
+JournalTitle: Advances in biochemical engineering/biotechnology
+MedAbbr: Adv Biochem Eng Biotechnol
+ISSN (Print): 0724-6145
+ISSN (Online): 1616-8542
+IsoAbbr: Adv. Biochem. Eng. Biotechnol.
+NlmId: 8307733
+--------------------------------------------------------
+JrId: 259
+JournalTitle: Advances in biology of skin
+MedAbbr: Adv Biol Skin
+ISSN (Print): 0065-2253
+ISSN (Online): 
+IsoAbbr: Adv Biol Skin
+NlmId: 0426664
+--------------------------------------------------------
+JrId: 260
+JournalTitle: Advances in biomedical engineering and medical physics
+MedAbbr: Adv Biomed Eng Med Phys
+ISSN (Print): 0065-2261
+ISSN (Online): 
+IsoAbbr: Adv Biomed Eng Med Phys
+NlmId: 7611904
+--------------------------------------------------------
+JrId: 261
+JournalTitle: Advances in biophysics
+MedAbbr: Adv Biophys
+ISSN (Print): 0065-227X
+ISSN (Online): 1873-4618
+IsoAbbr: Adv. Biophys.
+NlmId: 0262476
+--------------------------------------------------------
+JrId: 262
+JournalTitle: Advances in cancer research
+MedAbbr: Adv Cancer Res
+ISSN (Print): 0065-230X
+ISSN (Online): 
+IsoAbbr: Adv. Cancer Res.
+NlmId: 0370416
+--------------------------------------------------------
+JrId: 263
+JournalTitle: Advances in carbohydrate chemistry and biochemistry
+MedAbbr: Adv Carbohydr Chem Biochem
+ISSN (Print): 0065-2318
+ISSN (Online): 
+IsoAbbr: Adv Carbohydr Chem Biochem
+NlmId: 0240537
+--------------------------------------------------------
+JrId: 264
+JournalTitle: Advances in cardiology
+MedAbbr: Adv Cardiol
+ISSN (Print): 0065-2326
+ISSN (Online): 1662-2839
+IsoAbbr: Adv Cardiol
+NlmId: 0270063
+--------------------------------------------------------
+JrId: 265
+JournalTitle: Advances in cardiopulmonary diseases
+MedAbbr: Adv Cardiopulm Dis
+ISSN (Print): 0065-2334
+ISSN (Online): 
+IsoAbbr: Adv Cardiopulm Dis
+NlmId: 14630130R
+--------------------------------------------------------
+JrId: 266
+JournalTitle: Advances in cell biology
+MedAbbr: Adv Cell Biol
+ISSN (Print): 0065-2369
+ISSN (Online): 
+IsoAbbr: Adv Cell Biol
+NlmId: 0235424
+--------------------------------------------------------
+JrId: 267
+JournalTitle: Advances in chemotherapy
+MedAbbr: Adv Chemother
+ISSN (Print): 0567-9877
+ISSN (Online): 
+IsoAbbr: Adv Chemother
+NlmId: 0236562
+--------------------------------------------------------
+JrId: 268
+JournalTitle: Advances in child development and behavior
+MedAbbr: Adv Child Dev Behav
+ISSN (Print): 0065-2407
+ISSN (Online): 
+IsoAbbr: Adv Child Dev Behav
+NlmId: 0370417
+--------------------------------------------------------
+JrId: 269
+JournalTitle: Advances in contraception : the official journal of the Society for the Advancement of Contraception
+MedAbbr: Adv Contracept
+ISSN (Print): 0267-4874
+ISSN (Online): 
+IsoAbbr: Adv Contracept
+NlmId: 8607435
+--------------------------------------------------------
+JrId: 270
+JournalTitle: Advances in chromatography
+MedAbbr: Adv Chromatogr
+ISSN (Print): 0065-2415
+ISSN (Online): 
+IsoAbbr: Adv Chromatogr
+NlmId: 0121020
+--------------------------------------------------------
+JrId: 271
+JournalTitle: Advances in clinical chemistry
+MedAbbr: Adv Clin Chem
+ISSN (Print): 0065-2423
+ISSN (Online): 
+IsoAbbr: Adv Clin Chem
+NlmId: 2985173R
+--------------------------------------------------------
+JrId: 272
+JournalTitle: Advances in clinical pharmacology
+MedAbbr: Adv Clin Pharmacol
+ISSN (Print): 0303-2671
+ISSN (Online): 
+IsoAbbr: Adv Clin Pharmacol
+NlmId: 0430232
+--------------------------------------------------------
+JrId: 273
+JournalTitle: Advances in comparative physiology and biochemistry
+MedAbbr: Adv Comp Physiol Biochem
+ISSN (Print): 0065-244X
+ISSN (Online): 
+IsoAbbr: Adv Comp Physiol Biochem
+NlmId: 0370422
+--------------------------------------------------------
+JrId: 274
+JournalTitle: Advances in cyclic nucleotide and protein phosphorylation research
+MedAbbr: Adv Cyclic Nucleotide Protein Phosphorylation Res
+ISSN (Print): 0747-7767
+ISSN (Online): 
+IsoAbbr: Adv Cyclic Nucleotide Protein Phosphorylation Res
+NlmId: 8404639
+--------------------------------------------------------
+JrId: 275
+JournalTitle: Advances in cyclic nucleotide research
+MedAbbr: Adv Cyclic Nucleotide Res
+ISSN (Print): 0084-5930
+ISSN (Online): 
+IsoAbbr: Adv Cyclic Nucleotide Res
+NlmId: 0341362
+--------------------------------------------------------
+JrId: 276
+JournalTitle: Advances in cytopharmacology
+MedAbbr: Adv Cytopharmacol
+ISSN (Print): 0084-5949
+ISSN (Online): 
+IsoAbbr: Adv Cytopharmacol
+NlmId: 1301733
+--------------------------------------------------------
+JrId: 277
+JournalTitle: Advances in drug research
+MedAbbr: Adv Drug Res
+ISSN (Print): 0065-2490
+ISSN (Online): 
+IsoAbbr: Adv Drug Res
+NlmId: 0040021
+--------------------------------------------------------
+JrId: 278
+JournalTitle: Advances in enzyme regulation
+MedAbbr: Adv Enzyme Regul
+ISSN (Print): 0065-2571
+ISSN (Online): 1873-2437
+IsoAbbr: Adv. Enzyme Regul.
+NlmId: 0044263
+--------------------------------------------------------
+JrId: 279
+JournalTitle: Advances in enzymology and related areas of molecular biology
+MedAbbr: Adv Enzymol Relat Areas Mol Biol
+ISSN (Print): 0065-258X
+ISSN (Online): 1934-4694
+IsoAbbr: Adv. Enzymol. Relat. Areas Mol. Biol.
+NlmId: 0337243
+--------------------------------------------------------
+JrId: 280
+JournalTitle: Advances in experimental medicine and biology
+MedAbbr: Adv Exp Med Biol
+ISSN (Print): 0065-2598
+ISSN (Online): 
+IsoAbbr: Adv. Exp. Med. Biol.
+NlmId: 0121103
+--------------------------------------------------------
+JrId: 281
+JournalTitle: Advances in fluorine research and dental caries prevention
+MedAbbr: Adv Fluorine Res
+ISSN (Print): 0567-994X
+ISSN (Online): 
+IsoAbbr: Adv Fluorine Res
+NlmId: 14630160R
+--------------------------------------------------------
+JrId: 282
+JournalTitle: Advances in health economics and health services research
+MedAbbr: Adv Health Econ Health Serv Res
+ISSN (Print): 0731-2199
+ISSN (Online): 
+IsoAbbr: Adv Health Econ Health Serv Res
+NlmId: 8206631
+--------------------------------------------------------
+JrId: 283
+JournalTitle: Aktuelle Traumatologie
+MedAbbr: Aktuelle Traumatol
+ISSN (Print): 0044-6173
+ISSN (Online): 
+IsoAbbr: Aktuelle Traumatol
+NlmId: 0421405
+--------------------------------------------------------
+JrId: 284
+JournalTitle: Advances in food research
+MedAbbr: Adv Food Res
+ISSN (Print): 0065-2628
+ISSN (Online): 
+IsoAbbr: Adv Food Res
+NlmId: 0370423
+--------------------------------------------------------
+JrId: 285
+JournalTitle: Advances in immunity and cancer therapy
+MedAbbr: Adv Immun Cancer Ther
+ISSN (Print): 0178-2134
+ISSN (Online): 
+IsoAbbr: Adv Immun Cancer Ther
+NlmId: 8601071
+--------------------------------------------------------
+JrId: 286
+JournalTitle: Advances in genetics
+MedAbbr: Adv Genet
+ISSN (Print): 0065-2660
+ISSN (Online): 
+IsoAbbr: Adv. Genet.
+NlmId: 0370421
+--------------------------------------------------------
+JrId: 287
+JournalTitle: Advances in gerontological research
+MedAbbr: Adv Gerontol Res
+ISSN (Print): 0065-2709
+ISSN (Online): 
+IsoAbbr: Adv Gerontol Res
+NlmId: 0436264
+--------------------------------------------------------
+JrId: 288
+JournalTitle: Advances in nutritional research
+MedAbbr: Adv Nutr Res
+ISSN (Print): 0149-9483
+ISSN (Online): 
+IsoAbbr: Adv Nutr Res
+NlmId: 7802764
+--------------------------------------------------------
+JrId: 289
+JournalTitle: Advances in heterocyclic chemistry
+MedAbbr: Adv Heterocycl Chem
+ISSN (Print): 0065-2725
+ISSN (Online): 
+IsoAbbr: Adv Heterocycl Chem
+NlmId: 0370424
+--------------------------------------------------------
+JrId: 290
+JournalTitle: Advances in human genetics
+MedAbbr: Adv Hum Genet
+ISSN (Print): 0065-275X
+ISSN (Online): 
+IsoAbbr: Adv. Hum. Genet.
+NlmId: 1256347
+--------------------------------------------------------
+JrId: 291
+JournalTitle: Advances in immunology
+MedAbbr: Adv Immunol
+ISSN (Print): 0065-2776
+ISSN (Online): 1557-8445
+IsoAbbr: Adv. Immunol.
+NlmId: 0370425
+--------------------------------------------------------
+JrId: 292
+JournalTitle: Advances in inorganic biochemistry
+MedAbbr: Adv Inorg Biochem
+ISSN (Print): 0190-0218
+ISSN (Online): 
+IsoAbbr: Adv. Inorg. Biochem.
+NlmId: 7909203
+--------------------------------------------------------
+JrId: 293
+JournalTitle: Advances in internal medicine
+MedAbbr: Adv Intern Med
+ISSN (Print): 0065-2822
+ISSN (Online): 
+IsoAbbr: Adv Intern Med
+NlmId: 0370427
+--------------------------------------------------------
+JrId: 294
+JournalTitle: Advances in lipid research
+MedAbbr: Adv Lipid Res
+ISSN (Print): 0065-2849
+ISSN (Online): 
+IsoAbbr: Adv. Lipid Res.
+NlmId: 0000262
+--------------------------------------------------------
+JrId: 295
+JournalTitle: Advances in metabolic disorders
+MedAbbr: Adv Metab Disord
+ISSN (Print): 0065-2903
+ISSN (Online): 
+IsoAbbr: Adv Metab Disord
+NlmId: 0370430
+--------------------------------------------------------
+JrId: 296
+JournalTitle: Advances in microbial physiology
+MedAbbr: Adv Microb Physiol
+ISSN (Print): 0065-2911
+ISSN (Online): 
+IsoAbbr: Adv. Microb. Physiol.
+NlmId: 0117147
+--------------------------------------------------------
+JrId: 297
+JournalTitle: Advances in nephrology from the Necker Hospital
+MedAbbr: Adv Nephrol Necker Hosp
+ISSN (Print): 0084-5957
+ISSN (Online): 
+IsoAbbr: Adv. Nephrol. Necker Hosp.
+NlmId: 0311622
+--------------------------------------------------------
+JrId: 298
+JournalTitle: Advances in morphogenesis
+MedAbbr: Adv Morphog
+ISSN (Print): 0065-2962
+ISSN (Online): 
+IsoAbbr: Adv Morphog
+NlmId: 7611906
+--------------------------------------------------------
+JrId: 299
+JournalTitle: Advances in neurology
+MedAbbr: Adv Neurol
+ISSN (Print): 0091-3952
+ISSN (Online): 
+IsoAbbr: Adv Neurol
+NlmId: 0367524
+--------------------------------------------------------
+JrId: 300
+JournalTitle: Shinkei kenkyu no shimpo. Advances in neurological sciences
+MedAbbr: Shinkei Kenkyu No Shimpo
+ISSN (Print): 0001-8724
+ISSN (Online): 
+IsoAbbr: Shinkei Kenkyu No Shimpo
+NlmId: 0067457
+--------------------------------------------------------
+JrId: 301
+JournalTitle: Advances in alcohol & substance abuse
+MedAbbr: Adv Alcohol Subst Abuse
+ISSN (Print): 0270-3106
+ISSN (Online): 
+IsoAbbr: Adv Alcohol Subst Abuse
+NlmId: 8107172
+--------------------------------------------------------
+JrId: 302
+JournalTitle: Advances in ophthalmology = Fortschritte der Augenheilkunde = Progres en ophtalmologie
+MedAbbr: Adv Ophthalmol
+ISSN (Print): 0065-3004
+ISSN (Online): 
+IsoAbbr: Adv Ophthalmol
+NlmId: 0263212
+--------------------------------------------------------
+JrId: 303
+JournalTitle: Advances in oral biology
+MedAbbr: Adv Oral Biol
+ISSN (Print): 0065-3020
+ISSN (Online): 
+IsoAbbr: Adv Oral Biol
+NlmId: 0000261
+--------------------------------------------------------
+JrId: 304
+JournalTitle: Advances in oto-rhino-laryngology
+MedAbbr: Adv Otorhinolaryngol
+ISSN (Print): 0065-3071
+ISSN (Online): 1662-2847
+IsoAbbr: Adv. Otorhinolaryngol.
+NlmId: 0242534
+--------------------------------------------------------
+JrId: 305
+JournalTitle: Advances in prostaglandin and thromboxane research
+MedAbbr: Adv Prostaglandin Thromboxane Res
+ISSN (Print): 0361-5952
+ISSN (Online): 
+IsoAbbr: Adv Prostaglandin Thromboxane Res
+NlmId: 7610366
+--------------------------------------------------------
+JrId: 306
+JournalTitle: Advances in parasitology
+MedAbbr: Adv Parasitol
+ISSN (Print): 0065-308X
+ISSN (Online): 
+IsoAbbr: Adv. Parasitol.
+NlmId: 0370435
+--------------------------------------------------------
+JrId: 307
+JournalTitle: Advances in pathobiology
+MedAbbr: Adv Pathobiol
+ISSN (Print): 0099-1147
+ISSN (Online): 
+IsoAbbr: Adv Pathobiol
+NlmId: 7511090
+--------------------------------------------------------
+JrId: 308
+JournalTitle: Advances in pediatrics
+MedAbbr: Adv Pediatr
+ISSN (Print): 0065-3101
+ISSN (Online): 1878-1926
+IsoAbbr: Adv Pediatr
+NlmId: 0370436
+--------------------------------------------------------
+JrId: 309
+JournalTitle: Advances in pest control research
+MedAbbr: Adv Pest Control Res
+ISSN (Print): 0568-0107
+ISSN (Online): 
+IsoAbbr: Adv Pest Control Res
+NlmId: 14640020R
+--------------------------------------------------------
+JrId: 310
+JournalTitle: Advances in pharmaceutical sciences
+MedAbbr: Adv Pharm Sci
+ISSN (Print): 0065-3136
+ISSN (Online): 
+IsoAbbr: Adv Pharm Sci
+NlmId: 0040024
+--------------------------------------------------------
+JrId: 312
+JournalTitle: Advances in pharmacology and chemotherapy
+MedAbbr: Adv Pharmacol Chemother
+ISSN (Print): 0065-3144
+ISSN (Online): 
+IsoAbbr: Adv Pharmacol Chemother
+NlmId: 0237113
+--------------------------------------------------------
+JrId: 313
+JournalTitle: Adverse drug reactions and acute poisoning reviews
+MedAbbr: Adverse Drug React Acute Poisoning Rev
+ISSN (Print): 0260-647X
+ISSN (Online): 
+IsoAbbr: Adverse Drug React Acute Poisoning Rev
+NlmId: 8217118
+--------------------------------------------------------
+JrId: 314
+JournalTitle: Advances in protein chemistry
+MedAbbr: Adv Protein Chem
+ISSN (Print): 0065-3233
+ISSN (Online): 1557-8941
+IsoAbbr: Adv. Protein Chem.
+NlmId: 0116732
+--------------------------------------------------------
+JrId: 315
+JournalTitle: Advances in prostaglandin, thromboxane, and leukotriene research
+MedAbbr: Adv Prostaglandin Thromboxane Leukot Res
+ISSN (Print): 0732-8141
+ISSN (Online): 
+IsoAbbr: Adv. Prostaglandin Thromboxane Leukot. Res.
+NlmId: 8211444
+--------------------------------------------------------
+JrId: 316
+JournalTitle: Advances in psychobiology
+MedAbbr: Adv Psychobiol
+ISSN (Print): 0065-3241
+ISSN (Online): 
+IsoAbbr: Adv Psychobiol
+NlmId: 0337407
+--------------------------------------------------------
+JrId: 317
+JournalTitle: Advances in psychosomatic medicine
+MedAbbr: Adv Psychosom Med
+ISSN (Print): 0065-3268
+ISSN (Online): 1662-2855
+IsoAbbr: Adv Psychosom Med
+NlmId: 0101303
+--------------------------------------------------------
+JrId: 318
+JournalTitle: Advancement of science
+MedAbbr: Adv Sci
+ISSN (Print): 0001-866X
+ISSN (Online): 
+IsoAbbr: Adv Sci
+NlmId: 0370412
+--------------------------------------------------------
+JrId: 319
+JournalTitle: Advances in steroid biochemistry and pharmacology
+MedAbbr: Adv Steroid Biochem Pharmacol
+ISSN (Print): 0065-339X
+ISSN (Online): 
+IsoAbbr: Adv Steroid Biochem Pharmacol
+NlmId: 1251746
+--------------------------------------------------------
+JrId: 320
+JournalTitle: Advances in surgery
+MedAbbr: Adv Surg
+ISSN (Print): 0065-3411
+ISSN (Online): 
+IsoAbbr: Adv Surg
+NlmId: 0045335
+--------------------------------------------------------
+JrId: 321
+JournalTitle: Advances in reproductive physiology
+MedAbbr: Adv Reprod Physiol
+ISSN (Print): 0065-3322
+ISSN (Online): 
+IsoAbbr: Adv Reprod Physiol
+NlmId: 7513188
+--------------------------------------------------------
+JrId: 322
+JournalTitle: Advances in tracer methodology
+MedAbbr: Adv Tracer Methodol
+ISSN (Print): 0065-3497
+ISSN (Online): 
+IsoAbbr: Adv Tracer Methodol
+NlmId: 14640050R
+--------------------------------------------------------
+JrId: 323
+JournalTitle: Advances in sex hormone research
+MedAbbr: Adv Sex Horm Res
+ISSN (Print): 0098-0137
+ISSN (Online): 
+IsoAbbr: Adv Sex Horm Res
+NlmId: 7504908
+--------------------------------------------------------
+JrId: 324
+JournalTitle: Advances in socio-dental research
+MedAbbr: Adv Sociodent Res
+ISSN (Print): 0092-9816
+ISSN (Online): 
+IsoAbbr: Adv Sociodent Res
+NlmId: 0410245
+--------------------------------------------------------
+JrId: 325
+JournalTitle: Advances in tuberculosis research. Fortschritte der Tuberkuloseforschung. Progres de l'exploration de la tuberculose
+MedAbbr: Adv Tuberc Res
+ISSN (Print): 0065-3500
+ISSN (Online): 
+IsoAbbr: Adv Tuberc Res
+NlmId: 0347575
+--------------------------------------------------------
+JrId: 326
+JournalTitle: Advances in veterinary science and comparative medicine
+MedAbbr: Adv Vet Sci Comp Med
+ISSN (Print): 0065-3519
+ISSN (Online): 
+IsoAbbr: Adv Vet Sci Comp Med
+NlmId: 0216540
+--------------------------------------------------------
+JrId: 327
+JournalTitle: Advances in shock research
+MedAbbr: Adv Shock Res
+ISSN (Print): 0195-878X
+ISSN (Online): 
+IsoAbbr: Adv Shock Res
+NlmId: 7908298
+--------------------------------------------------------
+JrId: 328
+JournalTitle: Advances in virus research
+MedAbbr: Adv Virus Res
+ISSN (Print): 0065-3527
+ISSN (Online): 1557-8399
+IsoAbbr: Adv. Virus Res.
+NlmId: 0370441
+--------------------------------------------------------
+JrId: 329
+JournalTitle: Aeromedical reviews
+MedAbbr: Aeromed Rev
+ISSN (Print): 0065-3683
+ISSN (Online): 
+IsoAbbr: Aeromed Rev
+NlmId: 0373063
+--------------------------------------------------------
+JrId: 330
+JournalTitle: Aerospace medicine
+MedAbbr: Aerosp Med
+ISSN (Print): 0001-9402
+ISSN (Online): 
+IsoAbbr: Aerosp Med
+NlmId: 7501696
+--------------------------------------------------------
+JrId: 331
+JournalTitle: Arztliche Forschung
+MedAbbr: Arztl Forsch
+ISSN (Print): 0001-9496
+ISSN (Online): 
+IsoAbbr: Arztl Forsch
+NlmId: 7611907
+--------------------------------------------------------
+JrId: 332
+JournalTitle: Arztliche Jugendkunde
+MedAbbr: Arztl Jugendkd
+ISSN (Print): 0001-9518
+ISSN (Online): 
+IsoAbbr: Arztl Jugendkd
+NlmId: 0370444
+--------------------------------------------------------
+JrId: 333
+JournalTitle: Asthetische Medizin
+MedAbbr: Asthet Med (Berl)
+ISSN (Print): 0400-6755
+ISSN (Online): 
+IsoAbbr: Asthet Med (Berl)
+NlmId: 0253745
+--------------------------------------------------------
+JrId: 334
+JournalTitle: Aesthetic plastic surgery
+MedAbbr: Aesthetic Plast Surg
+ISSN (Print): 0364-216X
+ISSN (Online): 1432-5241
+IsoAbbr: Aesthetic Plast Surg
+NlmId: 7701756
+--------------------------------------------------------
+JrId: 335
+JournalTitle: The AFL-CIO American federationist. AFL-CIO
+MedAbbr: AFL CIO Am Fed
+ISSN (Print): 0149-2489
+ISSN (Online): 
+IsoAbbr: AFL CIO Am Fed
+NlmId: 9877748
+--------------------------------------------------------
+JrId: 336
+JournalTitle: The African journal of medical sciences
+MedAbbr: Afr J Med Sci
+ISSN (Print): 0002-0028
+ISSN (Online): 
+IsoAbbr: Afr J Med Sci
+NlmId: 7611908
+--------------------------------------------------------
+JrId: 337
+JournalTitle: Aging & leisure living
+MedAbbr: Aging Leis Living
+ISSN (Print): 0194-455X
+ISSN (Online): 
+IsoAbbr: Aging Leis Living
+NlmId: 7910857
+--------------------------------------------------------
+JrId: 338
+JournalTitle: Age and ageing
+MedAbbr: Age Ageing
+ISSN (Print): 0002-0729
+ISSN (Online): 1468-2834
+IsoAbbr: Age Ageing
+NlmId: 0375655
+--------------------------------------------------------
+JrId: 339
+JournalTitle: Aging
+MedAbbr: Aging
+ISSN (Print): 0002-0966
+ISSN (Online): 
+IsoAbbr: Aging
+NlmId: 0050677
+--------------------------------------------------------
+JrId: 340
+JournalTitle: Agents and actions
+MedAbbr: Agents Actions
+ISSN (Print): 0065-4299
+ISSN (Online): 
+IsoAbbr: Agents Actions
+NlmId: 0213341
+--------------------------------------------------------
+JrId: 341
+JournalTitle: Aggiornamenti clinicoterapeutici
+MedAbbr: Aggiorn Clinico Ter
+ISSN (Print): 0002-0907
+ISSN (Online): 
+IsoAbbr: Aggiorn Clinico Ter
+NlmId: 0376310
+--------------------------------------------------------
+JrId: 342
+JournalTitle: Agents and actions. Supplements
+MedAbbr: Agents Actions Suppl
+ISSN (Print): 0379-0363
+ISSN (Online): 
+IsoAbbr: Agents Actions Suppl.
+NlmId: 7801014
+--------------------------------------------------------
+JrId: 343
+JournalTitle: Die Agnes Karll-Schwester, der Krankenpfleger
+MedAbbr: Agnes Karll Schwest Krankenpfleger
+ISSN (Print): 0944-9175
+ISSN (Online): 
+IsoAbbr: Agnes Karll Schwest Krankenpfleger
+NlmId: 0321470
+--------------------------------------------------------
+JrId: 344
+JournalTitle: Agressologie: revue internationale de physio-biologie et de pharmacologie appliquees aux effets de l'agression
+MedAbbr: Agressologie
+ISSN (Print): 0002-1148
+ISSN (Online): 
+IsoAbbr: Agressologie
+NlmId: 0121575
+--------------------------------------------------------
+JrId: 345
+JournalTitle: Aichi Gakuin Daigaku Shigakkai shi
+MedAbbr: Aichi Gakuin Daigaku Shigakkai Shi
+ISSN (Print): 0044-6912
+ISSN (Online): 
+IsoAbbr: Aichi Gakuin Daigaku Shigakkai Shi
+NlmId: 7501066
+--------------------------------------------------------
+JrId: 346
+JournalTitle: Archives of interamerican rheumatology : A.I.R
+MedAbbr: Arch Interam Rheumatol
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Arch Interam Rheumatol
+NlmId: 0253226
+--------------------------------------------------------
+JrId: 347
+JournalTitle: Air and water pollution
+MedAbbr: Air Water Pollut
+ISSN (Print): 0568-3408
+ISSN (Online): 
+IsoAbbr: Air Water Pollut
+NlmId: 0101051
+--------------------------------------------------------
+JrId: 348
+JournalTitle: Aktuelle Gerontologie
+MedAbbr: Aktuelle Gerontol
+ISSN (Print): 0300-5704
+ISSN (Online): 
+IsoAbbr: Aktuelle Gerontol
+NlmId: 0421403
+--------------------------------------------------------
+JrId: 349
+JournalTitle: Aktuelle Oto-Rhino-Laryngologie
+MedAbbr: Aktuelle Otorhinolaryngol
+ISSN (Print): 0065-5570
+ISSN (Online): 
+IsoAbbr: Aktuelle Otorhinolaryngol
+NlmId: 0177222
+--------------------------------------------------------
+JrId: 350
+JournalTitle: American journal of otolaryngology
+MedAbbr: Am J Otolaryngol
+ISSN (Print): 0196-0709
+ISSN (Online): 1532-818X
+IsoAbbr: Am J Otolaryngol
+NlmId: 8000029
+--------------------------------------------------------
+JrId: 351
+JournalTitle: Aktuelle Probleme in der Chirurgie
+MedAbbr: Aktuelle Probl Chir
+ISSN (Print): 0065-5589
+ISSN (Online): 
+IsoAbbr: Aktuelle Probl Chir
+NlmId: 0267464
+--------------------------------------------------------
+JrId: 352
+JournalTitle: Aktuelle Probleme in Chirurgie und Orthopadie
+MedAbbr: Aktuelle Probl Chir Orthop
+ISSN (Print): 0378-8504
+ISSN (Online): 
+IsoAbbr: Aktuelle Probl Chir Orthop
+NlmId: 7705398
+--------------------------------------------------------
+JrId: 353
+JournalTitle: Adolescent psychiatry
+MedAbbr: Adolesc Psychiatry
+ISSN (Print): 0065-2008
+ISSN (Online): 
+IsoAbbr: Adolesc Psychiatry
+NlmId: 1302147
+--------------------------------------------------------
+JrId: 354
+JournalTitle: Akusherstvo i ginekologiia
+MedAbbr: Akush Ginekol (Mosk)
+ISSN (Print): 0002-3906
+ISSN (Online): 
+IsoAbbr: Akush Ginekol (Mosk)
+NlmId: 0370456
+--------------------------------------------------------
+JrId: 355
+JournalTitle: Akusherstvo i ginekologiia
+MedAbbr: Akush Ginekol (Sofiia)
+ISSN (Print): 0324-0959
+ISSN (Online): 
+IsoAbbr: Akush Ginekol (Sofiia)
+NlmId: 0370455
+--------------------------------------------------------
+JrId: 356
+JournalTitle: The Alabama journal of medical sciences
+MedAbbr: Ala J Med Sci
+ISSN (Print): 0002-4252
+ISSN (Online): 
+IsoAbbr: Ala J Med Sci
+NlmId: 0376521
+--------------------------------------------------------
+JrId: 357
+JournalTitle: Brain & development
+MedAbbr: Brain Dev
+ISSN (Print): 0387-7604
+ISSN (Online): 1872-7131
+IsoAbbr: Brain Dev.
+NlmId: 7909235
+--------------------------------------------------------
+JrId: 358
+JournalTitle: The Alabama nurse
+MedAbbr: Ala Nurse
+ISSN (Print): 0002-4317
+ISSN (Online): 
+IsoAbbr: Ala Nurse
+NlmId: 14720150R
+--------------------------------------------------------
+JrId: 359
+JournalTitle: American College of Physicians observer
+MedAbbr: Am Coll Physicians Obs
+ISSN (Print): 0279-9529
+ISSN (Online): 
+IsoAbbr: Am Coll Physicians Obs
+NlmId: 8102266
+--------------------------------------------------------
+JrId: 360
+JournalTitle: Bulletin - Alameda County Dental Society
+MedAbbr: Bull Alameda Cty Dent Soc
+ISSN (Print): 0098-3764
+ISSN (Online): 
+IsoAbbr: Bull Alameda Cty Dent Soc
+NlmId: 7503327
+--------------------------------------------------------
+JrId: 361
+JournalTitle: The American journal of pediatric hematology/oncology
+MedAbbr: Am J Pediatr Hematol Oncol
+ISSN (Print): 0192-8562
+ISSN (Online): 
+IsoAbbr: Am J Pediatr Hematol Oncol
+NlmId: 7908071
+--------------------------------------------------------
+JrId: 362
+JournalTitle: Alaska medicine
+MedAbbr: Alaska Med
+ISSN (Print): 0002-4538
+ISSN (Online): 
+IsoAbbr: Alaska Med
+NlmId: 0370457
+--------------------------------------------------------
+JrId: 363
+JournalTitle: The American Journal of dermatopathology
+MedAbbr: Am J Dermatopathol
+ISSN (Print): 0193-1091
+ISSN (Online): 1533-0311
+IsoAbbr: Am J Dermatopathol
+NlmId: 7911005
+--------------------------------------------------------
+JrId: 364
+JournalTitle: The Alaska nurse
+MedAbbr: Alaska Nurse
+ISSN (Print): 0002-4546
+ISSN (Online): 
+IsoAbbr: Alaska Nurse
+NlmId: 0042336
+--------------------------------------------------------
+JrId: 365
+JournalTitle: Alcoholism, clinical and experimental research
+MedAbbr: Alcohol Clin Exp Res
+ISSN (Print): 0145-6008
+ISSN (Online): 1530-0277
+IsoAbbr: Alcohol. Clin. Exp. Res.
+NlmId: 7707242
+--------------------------------------------------------
+JrId: 366
+JournalTitle: Albrecht von Graefes Archiv fur klinische und experimentelle Ophthalmologie. Albrecht von Graefe's archive for clinical and experimental ophthalmology
+MedAbbr: Albrecht Von Graefes Arch Klin Exp Ophthalmol
+ISSN (Print): 0065-6100
+ISSN (Online): 
+IsoAbbr: Albrecht Von Graefes Arch Klin Exp Ophthalmol
+NlmId: 0044637
+--------------------------------------------------------
+JrId: 367
+JournalTitle: Alergia
+MedAbbr: Alergia
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Alergia
+NlmId: 0140326
+--------------------------------------------------------
+JrId: 368
+JournalTitle: Alexandria dental journal : ADJ
+MedAbbr: Alex Dent J
+ISSN (Print): 1110-015X
+ISSN (Online): 
+IsoAbbr: Alex Dent J
+NlmId: 9426498
+--------------------------------------------------------
+JrId: 369
+JournalTitle: L' Alimentation et la vie
+MedAbbr: Aliment Vie
+ISSN (Print): 0065-6267
+ISSN (Online): 
+IsoAbbr: Aliment Vie
+NlmId: 0064233
+--------------------------------------------------------
+JrId: 370
+JournalTitle: Applied radiology
+MedAbbr: Appl Radiol
+ISSN (Print): 0160-9963
+ISSN (Online): 
+IsoAbbr: Appl Radiol
+NlmId: 7708167
+--------------------------------------------------------
+JrId: 371
+JournalTitle: Allergie und Asthma
+MedAbbr: Allerg Asthma (Leipz)
+ISSN (Print): 0375-8443
+ISSN (Online): 
+IsoAbbr: Allerg Asthma (Leipz)
+NlmId: 0313664
+--------------------------------------------------------
+JrId: 372
+JournalTitle: Allergy
+MedAbbr: Allergy
+ISSN (Print): 0105-4538
+ISSN (Online): 1398-9995
+IsoAbbr: Allergy
+NlmId: 7804028
+--------------------------------------------------------
+JrId: 373
+JournalTitle: Allergie- und Asthmaforschung
+MedAbbr: Allerg Asthmaforsch
+ISSN (Print): 0516-7132
+ISSN (Online): 
+IsoAbbr: Allerg Asthmaforsch
+NlmId: 0370461
+--------------------------------------------------------
+JrId: 374
+JournalTitle: Allergie und Immunologie
+MedAbbr: Allerg Immunol (Leipz)
+ISSN (Print): 0323-4398
+ISSN (Online): 
+IsoAbbr: Allerg Immunol (Leipz)
+NlmId: 0314702
+--------------------------------------------------------
+JrId: 375
+JournalTitle: Allied health and behavioral sciences
+MedAbbr: Allied Health Behav Sci
+ISSN (Print): 0190-0331
+ISSN (Online): 
+IsoAbbr: Allied Health Behav Sci
+NlmId: 7806480
+--------------------------------------------------------
+JrId: 376
+JournalTitle: AHME journal
+MedAbbr: AHME J
+ISSN (Print): 0090-7782
+ISSN (Online): 
+IsoAbbr: AHME J
+NlmId: 0362122
+--------------------------------------------------------
+JrId: 377
+JournalTitle: AJR. American journal of roentgenology
+MedAbbr: AJR Am J Roentgenol
+ISSN (Print): 0361-803X
+ISSN (Online): 1546-3141
+IsoAbbr: AJR Am J Roentgenol
+NlmId: 7708173
+--------------------------------------------------------
+JrId: 378
+JournalTitle: AIA journal. American Institute of Architects
+MedAbbr: AIA J
+ISSN (Print): 0001-1479
+ISSN (Online): 
+IsoAbbr: AIA J
+NlmId: 9875078
+--------------------------------------------------------
+JrId: 379
+JournalTitle: AJNR. American journal of neuroradiology
+MedAbbr: AJNR Am J Neuroradiol
+ISSN (Print): 0195-6108
+ISSN (Online): 1936-959X
+IsoAbbr: AJNR Am J Neuroradiol
+NlmId: 8003708
+--------------------------------------------------------
+JrId: 380
+JournalTitle: Allergologia et immunopathologia
+MedAbbr: Allergol Immunopathol (Madr)
+ISSN (Print): 0301-0546
+ISSN (Online): 1578-1267
+IsoAbbr: Allergol Immunopathol (Madr)
+NlmId: 0370073
+--------------------------------------------------------
+JrId: 381
+JournalTitle: Alcohol health and research world
+MedAbbr: Alcohol Health Res World
+ISSN (Print): 0090-838X
+ISSN (Online): 
+IsoAbbr: Alcohol Health Res World
+NlmId: 0365245
+--------------------------------------------------------
+JrId: 382
+JournalTitle: Alabama medicine : journal of the Medical Association of the State of Alabama
+MedAbbr: Ala Med
+ISSN (Print): 0738-4947
+ISSN (Online): 
+IsoAbbr: Ala Med
+NlmId: 8310343
+--------------------------------------------------------
+JrId: 383
+JournalTitle: The Alma mater
+MedAbbr: Alma Mater (Baltimore)
+ISSN (Print): 0065-6445
+ISSN (Online): 
+IsoAbbr: Alma Mater (Baltimore)
+NlmId: 14730200R
+--------------------------------------------------------
+JrId: 384
+JournalTitle: The Alpha omegan
+MedAbbr: Alpha Omegan
+ISSN (Print): 0002-6417
+ISSN (Online): 
+IsoAbbr: Alpha Omegan
+NlmId: 14730480R
+--------------------------------------------------------
+JrId: 385
+JournalTitle: Altern und Entwicklung. Aging and development
+MedAbbr: Altern Entwickl Aging Dev
+ISSN (Print): 0084-6252
+ISSN (Online): 
+IsoAbbr: Altern Entwickl Aging Dev
+NlmId: 1307126
+--------------------------------------------------------
+JrId: 386
+JournalTitle: The Alumnae magazine
+MedAbbr: Alumnae Mag
+ISSN (Print): 0002-6700
+ISSN (Online): 
+IsoAbbr: Alumnae Mag
+NlmId: 7706527
+--------------------------------------------------------
+JrId: 387
+JournalTitle: Alumnae magazine (Columbia University-Presbyterian Hospital School of Nursing Alumnae Association)
+MedAbbr: Alumnae Mag Columbia Univ Presbyt Hosp Sch Nurs Alumnae Assoc
+ISSN (Print): 0069-634X
+ISSN (Online): 
+IsoAbbr: Alumnae Mag Columbia Univ Presbyt Hosp Sch Nurs Alumnae Assoc
+NlmId: 0042365
+--------------------------------------------------------
+JrId: 388
+JournalTitle: Alumni bulletin - School of Dentistry, Indiana University
+MedAbbr: Alumni Bull Sch Dent Indiana Univ
+ISSN (Print): 0073-7119
+ISSN (Online): 
+IsoAbbr: Alumni Bull Sch Dent Indiana Univ
+NlmId: 7604908
+--------------------------------------------------------
+JrId: 389
+JournalTitle: Alumni bulletin. University of Michigan. School of Dentistry
+MedAbbr: Alumni Bull Univ Mich Sch Dent
+ISSN (Print): 0887-4387
+ISSN (Online): 
+IsoAbbr: Alumni Bull Univ Mich Sch Dent
+NlmId: 21430160R
+--------------------------------------------------------
+JrId: 390
+JournalTitle: Alumni magazine (Columbia University-Presbyterian Hospital School of Nursing Alumni Association)
+MedAbbr: Alumni Mag Columbia Univ Presbyt Hosp Sch Nurs Alumni Assoc
+ISSN (Print): 0898-4093
+ISSN (Online): 
+IsoAbbr: Alumni Mag Columbia Univ Presbyt Hosp Sch Nurs Alumni Assoc
+NlmId: 8504267
+--------------------------------------------------------
+JrId: 391
+JournalTitle: The American behavioral scientist
+MedAbbr: Am Behav Sci
+ISSN (Print): 0002-7642
+ISSN (Online): 
+IsoAbbr: Am Behav Sci
+NlmId: 0055030
+--------------------------------------------------------
+JrId: 392
+JournalTitle: American annals of the deaf
+MedAbbr: Am Ann Deaf
+ISSN (Print): 0002-726X
+ISSN (Online): 
+IsoAbbr: Am Ann Deaf
+NlmId: 0414670
+--------------------------------------------------------
+JrId: 393
+JournalTitle: American archives of rehabilitation therapy
+MedAbbr: Am Arch Rehabil Ther
+ISSN (Print): 0002-7324
+ISSN (Online): 
+IsoAbbr: Am Arch Rehabil Ther
+NlmId: 0370464
+--------------------------------------------------------
+JrId: 394
+JournalTitle: American Association of Industrial Nurses journal
+MedAbbr: Am Assoc Ind Nurses J
+ISSN (Print): 0098-6097
+ISSN (Online): 
+IsoAbbr: Am Assoc Ind Nurses J
+NlmId: 7501070
+--------------------------------------------------------
+JrId: 396
+JournalTitle: American corrective therapy journal
+MedAbbr: Am Correct Ther J
+ISSN (Print): 0002-8088
+ISSN (Online): 
+IsoAbbr: Am Correct Ther J
+NlmId: 0135256
+--------------------------------------------------------
+JrId: 397
+JournalTitle: American family physician
+MedAbbr: Am Fam Physician
+ISSN (Print): 0002-838X
+ISSN (Online): 1532-0650
+IsoAbbr: Am Fam Physician
+NlmId: 1272646
+--------------------------------------------------------
+JrId: 398
+JournalTitle: American heart journal
+MedAbbr: Am Heart J
+ISSN (Print): 0002-8703
+ISSN (Online): 1097-6744
+IsoAbbr: Am. Heart J.
+NlmId: 0370465
+--------------------------------------------------------
+JrId: 399
+JournalTitle: American pharmacy
+MedAbbr: Am Pharm
+ISSN (Print): 0160-3450
+ISSN (Online): 
+IsoAbbr: Am Pharm
+NlmId: 7801164
+--------------------------------------------------------
+JrId: 400
+JournalTitle: American rehabilitation
+MedAbbr: Am Rehabil
+ISSN (Print): 0362-4048
+ISSN (Online): 
+IsoAbbr: Am Rehabil
+NlmId: 7610370
+--------------------------------------------------------
+JrId: 401
+JournalTitle: The American imago; a psychoanalytic journal for the arts and sciences
+MedAbbr: Am Imago
+ISSN (Print): 0065-860X
+ISSN (Online): 1085-7931
+IsoAbbr: Am Imago
+NlmId: 0370466
+--------------------------------------------------------
+JrId: 402
+JournalTitle: American journal of art therapy
+MedAbbr: Am J Art Ther
+ISSN (Print): 0007-4764
+ISSN (Online): 
+IsoAbbr: Am J Art Ther
+NlmId: 0237447
+--------------------------------------------------------
+JrId: 403
+JournalTitle: American Industrial Hygiene Association journal
+MedAbbr: Am Ind Hyg Assoc J
+ISSN (Print): 0002-8894
+ISSN (Online): 
+IsoAbbr: Am Ind Hyg Assoc J
+NlmId: 0371160
+--------------------------------------------------------
+JrId: 404
+JournalTitle: American education
+MedAbbr: Am Educ
+ISSN (Print): 0002-8304
+ISSN (Online): 
+IsoAbbr: Am Educ
+NlmId: 7703832
+--------------------------------------------------------
+JrId: 405
+JournalTitle: Annual meeting - American Institute of Oral Biology
+MedAbbr: Annu Meet Am Inst Oral Biol
+ISSN (Print): 0098-6119
+ISSN (Online): 
+IsoAbbr: Annu Meet Am Inst Oral Biol
+NlmId: 7501078
+--------------------------------------------------------
+JrId: 406
+JournalTitle: The American journal of anatomy
+MedAbbr: Am J Anat
+ISSN (Print): 0002-9106
+ISSN (Online): 
+IsoAbbr: Am. J. Anat.
+NlmId: 0376312
+--------------------------------------------------------
+JrId: 407
+JournalTitle: American journal of botany
+MedAbbr: Am J Bot
+ISSN (Print): 0002-9122
+ISSN (Online): 1537-2197
+IsoAbbr: Am. J. Bot.
+NlmId: 0370467
+--------------------------------------------------------
+JrId: 408
+JournalTitle: The American journal of cardiology
+MedAbbr: Am J Cardiol
+ISSN (Print): 0002-9149
+ISSN (Online): 1879-1913
+IsoAbbr: Am. J. Cardiol.
+NlmId: 0207277
+--------------------------------------------------------
+JrId: 409
+JournalTitle: The American journal of Chinese medicine
+MedAbbr: Am J Chin Med (Gard City N Y)
+ISSN (Print): 0090-2942
+ISSN (Online): 
+IsoAbbr: Am J Chin Med (Gard City N Y)
+NlmId: 0354717
+--------------------------------------------------------
+JrId: 410
+JournalTitle: The American journal of Chinese medicine
+MedAbbr: Am J Chin Med
+ISSN (Print): 0192-415X
+ISSN (Online): 
+IsoAbbr: Am. J. Chin. Med.
+NlmId: 7901431
+--------------------------------------------------------
+JrId: 411
+JournalTitle: The American journal of clinical hypnosis
+MedAbbr: Am J Clin Hypn
+ISSN (Print): 0002-9157
+ISSN (Online): 2160-0562
+IsoAbbr: Am J Clin Hypn
+NlmId: 0100626
+--------------------------------------------------------
+JrId: 412
+JournalTitle: The American journal of clinical nutrition
+MedAbbr: Am J Clin Nutr
+ISSN (Print): 0002-9165
+ISSN (Online): 1938-3207
+IsoAbbr: Am. J. Clin. Nutr.
+NlmId: 0376027
+--------------------------------------------------------
+JrId: 413
+JournalTitle: American journal of clinical oncology
+MedAbbr: Am J Clin Oncol
+ISSN (Print): 0277-3732
+ISSN (Online): 1537-453X
+IsoAbbr: Am. J. Clin. Oncol.
+NlmId: 8207754
+--------------------------------------------------------
+JrId: 414
+JournalTitle: American journal of clinical pathology
+MedAbbr: Am J Clin Pathol
+ISSN (Print): 0002-9173
+ISSN (Online): 1943-7722
+IsoAbbr: Am. J. Clin. Pathol.
+NlmId: 0370470
+--------------------------------------------------------
+JrId: 415
+JournalTitle: American journal of community psychology
+MedAbbr: Am J Community Psychol
+ISSN (Print): 0091-0562
+ISSN (Online): 1573-2770
+IsoAbbr: Am J Community Psychol
+NlmId: 0364535
+--------------------------------------------------------
+JrId: 416
+JournalTitle: American journal of orthodontics and dentofacial orthopedics : official publication of the American Association of Orthodontists, its constituent societies, and the American Board of Orthodontics
+MedAbbr: Am J Orthod Dentofacial Orthop
+ISSN (Print): 0889-5406
+ISSN (Online): 1097-6752
+IsoAbbr: Am J Orthod Dentofacial Orthop
+NlmId: 8610224
+--------------------------------------------------------
+JrId: 417
+JournalTitle: The American journal of digestive diseases
+MedAbbr: Am J Dig Dis
+ISSN (Print): 0002-9211
+ISSN (Online): 
+IsoAbbr: Am J Dig Dis
+NlmId: 0404011
+--------------------------------------------------------
+JrId: 418
+JournalTitle: American journal of economics and sociology
+MedAbbr: Am J Econ Sociol
+ISSN (Print): 0002-9246
+ISSN (Online): 
+IsoAbbr: Am J Econ Sociol
+NlmId: 14820160R
+--------------------------------------------------------
+JrId: 419
+JournalTitle: American journal of diseases of children (1960)
+MedAbbr: Am J Dis Child
+ISSN (Print): 0002-922X
+ISSN (Online): 2374-3018
+IsoAbbr: Am. J. Dis. Child.
+NlmId: 0370471
+--------------------------------------------------------
+JrId: 420
+JournalTitle: The American journal of drug and alcohol abuse
+MedAbbr: Am J Drug Alcohol Abuse
+ISSN (Print): 0095-2990
+ISSN (Online): 1097-9891
+IsoAbbr: Am J Drug Alcohol Abuse
+NlmId: 7502510
+--------------------------------------------------------
+JrId: 421
+JournalTitle: American journal of epidemiology
+MedAbbr: Am J Epidemiol
+ISSN (Print): 0002-9262
+ISSN (Online): 1476-6256
+IsoAbbr: Am. J. Epidemiol.
+NlmId: 7910653
+--------------------------------------------------------
+JrId: 422
+JournalTitle: American journal of hematology
+MedAbbr: Am J Hematol
+ISSN (Print): 0361-8609
+ISSN (Online): 1096-8652
+IsoAbbr: Am. J. Hematol.
+NlmId: 7610369
+--------------------------------------------------------
+JrId: 423
+JournalTitle: American journal of kidney diseases : the official journal of the National Kidney Foundation
+MedAbbr: Am J Kidney Dis
+ISSN (Print): 0272-6386
+ISSN (Online): 1523-6838
+IsoAbbr: Am. J. Kidney Dis.
+NlmId: 8110075
+--------------------------------------------------------
+JrId: 424
+JournalTitle: American journal of health planning
+MedAbbr: Am J Health Plann
+ISSN (Print): 0363-7719
+ISSN (Online): 
+IsoAbbr: Am J Health Plann
+NlmId: 7701759
+--------------------------------------------------------
+JrId: 425
+JournalTitle: The American journal of forensic medicine and pathology
+MedAbbr: Am J Forensic Med Pathol
+ISSN (Print): 0195-7910
+ISSN (Online): 1533-404X
+IsoAbbr: Am J Forensic Med Pathol
+NlmId: 8108948
+--------------------------------------------------------
+JrId: 426
+JournalTitle: The American journal of gastroenterology
+MedAbbr: Am J Gastroenterol
+ISSN (Print): 0002-9270
+ISSN (Online): 1572-0241
+IsoAbbr: Am. J. Gastroenterol.
+NlmId: 0421030
+--------------------------------------------------------
+JrId: 427
+JournalTitle: American journal of hospital pharmacy
+MedAbbr: Am J Hosp Pharm
+ISSN (Print): 0002-9289
+ISSN (Online): 
+IsoAbbr: Am J Hosp Pharm
+NlmId: 0370474
+--------------------------------------------------------
+JrId: 428
+JournalTitle: American journal of human genetics
+MedAbbr: Am J Hum Genet
+ISSN (Print): 0002-9297
+ISSN (Online): 1537-6605
+IsoAbbr: Am. J. Hum. Genet.
+NlmId: 0370475
+--------------------------------------------------------
+JrId: 429
+JournalTitle: American journal of industrial medicine
+MedAbbr: Am J Ind Med
+ISSN (Print): 0271-3586
+ISSN (Online): 1097-0274
+IsoAbbr: Am. J. Ind. Med.
+NlmId: 8101110
+--------------------------------------------------------
+JrId: 430
+JournalTitle: American journal of law & medicine
+MedAbbr: Am J Law Med
+ISSN (Print): 0098-8588
+ISSN (Online): 
+IsoAbbr: Am J Law Med
+NlmId: 7509572
+--------------------------------------------------------
+JrId: 431
+JournalTitle: The American journal of medicine
+MedAbbr: Am J Med
+ISSN (Print): 0002-9343
+ISSN (Online): 1555-7162
+IsoAbbr: Am. J. Med.
+NlmId: 0267200
+--------------------------------------------------------
+JrId: 432
+JournalTitle: The American journal of medical electronics
+MedAbbr: Am J Med Electron
+ISSN (Print): 0096-5286
+ISSN (Online): 
+IsoAbbr: Am J Med Electron
+NlmId: 0061651
+--------------------------------------------------------
+JrId: 433
+JournalTitle: The American journal of the medical sciences
+MedAbbr: Am J Med Sci
+ISSN (Print): 0002-9629
+ISSN (Online): 1538-2990
+IsoAbbr: Am. J. Med. Sci.
+NlmId: 0370506
+--------------------------------------------------------
+JrId: 434
+JournalTitle: American journal of medical genetics
+MedAbbr: Am J Med Genet
+ISSN (Print): 0148-7299
+ISSN (Online): 1096-8628
+IsoAbbr: Am. J. Med. Genet.
+NlmId: 7708900
+--------------------------------------------------------
+JrId: 435
+JournalTitle: The American journal of medical technology
+MedAbbr: Am J Med Technol
+ISSN (Print): 0002-9335
+ISSN (Online): 
+IsoAbbr: Am J Med Technol
+NlmId: 0370505
+--------------------------------------------------------
+JrId: 436
+JournalTitle: American journal of mental deficiency
+MedAbbr: Am J Ment Defic
+ISSN (Print): 0002-9351
+ISSN (Online): 
+IsoAbbr: Am J Ment Defic
+NlmId: 0372647
+--------------------------------------------------------
+JrId: 437
+JournalTitle: American journal of nephrology
+MedAbbr: Am J Nephrol
+ISSN (Print): 0250-8095
+ISSN (Online): 1421-9670
+IsoAbbr: Am. J. Nephrol.
+NlmId: 8109361
+--------------------------------------------------------
+JrId: 438
+JournalTitle: The American journal of nursing
+MedAbbr: Am J Nurs
+ISSN (Print): 0002-936X
+ISSN (Online): 1538-7488
+IsoAbbr: Am J Nurs
+NlmId: 0372646
+--------------------------------------------------------
+JrId: 439
+JournalTitle: American journal of obstetrics and gynecology
+MedAbbr: Am J Obstet Gynecol
+ISSN (Print): 0002-9378
+ISSN (Online): 1097-6868
+IsoAbbr: Am. J. Obstet. Gynecol.
+NlmId: 0370476
+--------------------------------------------------------
+JrId: 440
+JournalTitle: The American journal of occupational therapy : official publication of the American Occupational Therapy Association
+MedAbbr: Am J Occup Ther
+ISSN (Print): 0272-9490
+ISSN (Online): 1943-7676
+IsoAbbr: Am J Occup Ther
+NlmId: 7705978
+--------------------------------------------------------
+JrId: 441
+JournalTitle: American journal of ophthalmology
+MedAbbr: Am J Ophthalmol
+ISSN (Print): 0002-9394
+ISSN (Online): 1879-1891
+IsoAbbr: Am. J. Ophthalmol.
+NlmId: 0370500
+--------------------------------------------------------
+JrId: 442
+JournalTitle: American journal of optometry and archives of American Academy of Optometry
+MedAbbr: Am J Optom Arch Am Acad Optom
+ISSN (Print): 0002-9408
+ISSN (Online): 
+IsoAbbr: Am J Optom Arch Am Acad Optom
+NlmId: 0420462
+--------------------------------------------------------
+JrId: 443
+JournalTitle: American journal of optometry and physiological optics
+MedAbbr: Am J Optom Physiol Opt
+ISSN (Print): 0093-7002
+ISSN (Online): 
+IsoAbbr: Am J Optom Physiol Opt
+NlmId: 0417614
+--------------------------------------------------------
+JrId: 444
+JournalTitle: American journal of orthodontics
+MedAbbr: Am J Orthod
+ISSN (Print): 0002-9416
+ISSN (Online): 
+IsoAbbr: Am J Orthod
+NlmId: 0370501
+--------------------------------------------------------
+JrId: 445
+JournalTitle: The American journal of orthopedic surgery
+MedAbbr: Am J Orthop Surg
+ISSN (Print): 0065-9002
+ISSN (Online): 
+IsoAbbr: Am J Orthop Surg
+NlmId: 7611912
+--------------------------------------------------------
+JrId: 446
+JournalTitle: The American journal of orthopsychiatry
+MedAbbr: Am J Orthopsychiatry
+ISSN (Print): 0002-9432
+ISSN (Online): 1939-0025
+IsoAbbr: Am J Orthopsychiatry
+NlmId: 0400640
+--------------------------------------------------------
+JrId: 447
+JournalTitle: The American journal of otology
+MedAbbr: Am J Otol
+ISSN (Print): 0192-9763
+ISSN (Online): 
+IsoAbbr: Am J Otol
+NlmId: 7909513
+--------------------------------------------------------
+JrId: 448
+JournalTitle: American journal of pharmaceutical education
+MedAbbr: Am J Pharm Educ
+ISSN (Print): 0002-9459
+ISSN (Online): 1553-6467
+IsoAbbr: Am J Pharm Educ
+NlmId: 0372650
+--------------------------------------------------------
+JrId: 449
+JournalTitle: The American journal of pathology
+MedAbbr: Am J Pathol
+ISSN (Print): 0002-9440
+ISSN (Online): 1525-2191
+IsoAbbr: Am. J. Pathol.
+NlmId: 0370502
+--------------------------------------------------------
+JrId: 450
+JournalTitle: American journal of pharmacy and the sciences supporting public health
+MedAbbr: Am J Pharm Sci Support Public Health
+ISSN (Print): 0002-9467
+ISSN (Online): 
+IsoAbbr: Am J Pharm Sci Support Public Health
+NlmId: 0416354
+--------------------------------------------------------
+JrId: 451
+JournalTitle: American journal of physical anthropology
+MedAbbr: Am J Phys Anthropol
+ISSN (Print): 0002-9483
+ISSN (Online): 1096-8644
+IsoAbbr: Am. J. Phys. Anthropol.
+NlmId: 0400654
+--------------------------------------------------------
+JrId: 452
+JournalTitle: American journal of physical medicine
+MedAbbr: Am J Phys Med
+ISSN (Print): 0002-9491
+ISSN (Online): 
+IsoAbbr: Am J Phys Med
+NlmId: 0370503
+--------------------------------------------------------
+JrId: 453
+JournalTitle: The American journal of physiology
+MedAbbr: Am J Physiol
+ISSN (Print): 0002-9513
+ISSN (Online): 
+IsoAbbr: Am. J. Physiol.
+NlmId: 0370511
+--------------------------------------------------------
+JrId: 454
+JournalTitle: American journal of practical nursing
+MedAbbr: Am J Pract Nurs
+ISSN (Print): 0569-6054
+ISSN (Online): 
+IsoAbbr: Am J Pract Nurs
+NlmId: 0001470
+--------------------------------------------------------
+JrId: 455
+JournalTitle: American journal of proctology
+MedAbbr: Am J Proctol
+ISSN (Print): 0002-9521
+ISSN (Online): 
+IsoAbbr: Am J Proctol
+NlmId: 0370472
+--------------------------------------------------------
+JrId: 456
+JournalTitle: American journal of proctology, gastroenterology & colon & rectal surgery
+MedAbbr: Am J Proctol Gastroenterol Colon Rectal Surg
+ISSN (Print): 0162-6566
+ISSN (Online): 
+IsoAbbr: Am J Proctol Gastroenterol Colon Rectal Surg
+NlmId: 7910860
+--------------------------------------------------------
+JrId: 457
+JournalTitle: The American journal of psychiatry
+MedAbbr: Am J Psychiatry
+ISSN (Print): 0002-953X
+ISSN (Online): 1535-7228
+IsoAbbr: Am J Psychiatry
+NlmId: 0370512
+--------------------------------------------------------
+JrId: 458
+JournalTitle: American journal of psychoanalysis
+MedAbbr: Am J Psychoanal
+ISSN (Print): 0002-9548
+ISSN (Online): 1573-6741
+IsoAbbr: Am J Psychoanal
+NlmId: 0372630
+--------------------------------------------------------
+JrId: 459
+JournalTitle: The American journal of psychology
+MedAbbr: Am J Psychol
+ISSN (Print): 0002-9556
+ISSN (Online): 1939-8298
+IsoAbbr: Am J Psychol
+NlmId: 0370513
+--------------------------------------------------------
+JrId: 460
+JournalTitle: American journal of psychotherapy
+MedAbbr: Am J Psychother
+ISSN (Print): 0002-9564
+ISSN (Online): 
+IsoAbbr: Am J Psychother
+NlmId: 0110672
+--------------------------------------------------------
+JrId: 461
+JournalTitle: American journal of public health
+MedAbbr: Am J Public Health
+ISSN (Print): 0090-0036
+ISSN (Online): 1541-0048
+IsoAbbr: Am J Public Health
+NlmId: 1254074
+--------------------------------------------------------
+JrId: 463
+JournalTitle: American journal of reproductive immunology and microbiology : AJRIM
+MedAbbr: Am J Reprod Immunol Microbiol
+ISSN (Print): 8755-8920
+ISSN (Online): 
+IsoAbbr: Am J Reprod Immunol Microbiol
+NlmId: 8501543
+--------------------------------------------------------
+JrId: 465
+JournalTitle: The American journal of roentgenology, radium therapy, and nuclear medicine
+MedAbbr: Am J Roentgenol Radium Ther Nucl Med
+ISSN (Print): 0002-9580
+ISSN (Online): 
+IsoAbbr: Am J Roentgenol Radium Ther Nucl Med
+NlmId: 7605534
+--------------------------------------------------------
+JrId: 466
+JournalTitle: The American journal of EEG technology
+MedAbbr: Am J EEG Technol
+ISSN (Print): 0002-9238
+ISSN (Online): 
+IsoAbbr: Am J EEG Technol
+NlmId: 0370504
+--------------------------------------------------------
+JrId: 467
+JournalTitle: The American journal of sports medicine
+MedAbbr: Am J Sports Med
+ISSN (Print): 0363-5465
+ISSN (Online): 1552-3365
+IsoAbbr: Am J Sports Med
+NlmId: 7609541
+--------------------------------------------------------
+JrId: 468
+JournalTitle: American medical news
+MedAbbr: Am Med News
+ISSN (Print): 0001-1843
+ISSN (Online): 
+IsoAbbr: Am Med News
+NlmId: 0226412
+--------------------------------------------------------
+JrId: 469
+JournalTitle: AJS; American journal of sociology
+MedAbbr: AJS
+ISSN (Print): 0002-9602
+ISSN (Online): 1537-5390
+IsoAbbr: Am. J. Sociol.
+NlmId: 0234014
+--------------------------------------------------------
+JrId: 470
+JournalTitle: The American journal of surgical pathology
+MedAbbr: Am J Surg Pathol
+ISSN (Print): 0147-5185
+ISSN (Online): 1532-0979
+IsoAbbr: Am. J. Surg. Pathol.
+NlmId: 7707904
+--------------------------------------------------------
+JrId: 471
+JournalTitle: American journal of surgery
+MedAbbr: Am J Surg
+ISSN (Print): 0002-9610
+ISSN (Online): 1879-1883
+IsoAbbr: Am. J. Surg.
+NlmId: 0370473
+--------------------------------------------------------
+JrId: 472
+JournalTitle: American laundry digest
+MedAbbr: Am Laund Dig
+ISSN (Print): 0002-9718
+ISSN (Online): 
+IsoAbbr: Am Laund Dig
+NlmId: 9877761
+--------------------------------------------------------
+JrId: 473
+JournalTitle: The American journal of tropical medicine and hygiene
+MedAbbr: Am J Trop Med Hyg
+ISSN (Print): 0002-9637
+ISSN (Online): 1476-1645
+IsoAbbr: Am. J. Trop. Med. Hyg.
+NlmId: 0370507
+--------------------------------------------------------
+JrId: 474
+JournalTitle: American journal of veterinary research
+MedAbbr: Am J Vet Res
+ISSN (Print): 0002-9645
+ISSN (Online): 1943-5681
+IsoAbbr: Am. J. Vet. Res.
+NlmId: 0375011
+--------------------------------------------------------
+JrId: 475
+JournalTitle: The American nurse
+MedAbbr: Am Nurse
+ISSN (Print): 0098-1486
+ISSN (Online): 
+IsoAbbr: Am Nurse
+NlmId: 7506499
+--------------------------------------------------------
+JrId: 476
+JournalTitle: American Lung Association bulletin
+MedAbbr: Am Lung Assoc Bull
+ISSN (Print): 0092-5659
+ISSN (Online): 
+IsoAbbr: Am Lung Assoc Bull
+NlmId: 0404016
+--------------------------------------------------------
+JrId: 477
+JournalTitle: The American orthoptic journal
+MedAbbr: Am Orthopt J
+ISSN (Print): 0065-955X
+ISSN (Online): 1553-4448
+IsoAbbr: Am Orthopt J
+NlmId: 0370520
+--------------------------------------------------------
+JrId: 478
+JournalTitle: The American psychologist
+MedAbbr: Am Psychol
+ISSN (Print): 0003-066X
+ISSN (Online): 1935-990X
+IsoAbbr: Am Psychol
+NlmId: 0370521
+--------------------------------------------------------
+JrId: 479
+JournalTitle: The American review of respiratory disease
+MedAbbr: Am Rev Respir Dis
+ISSN (Print): 0003-0805
+ISSN (Online): 
+IsoAbbr: Am. Rev. Respir. Dis.
+NlmId: 0370523
+--------------------------------------------------------
+JrId: 480
+JournalTitle: American scientist
+MedAbbr: Am Sci
+ISSN (Print): 0003-0996
+ISSN (Online): 
+IsoAbbr: Am. Sci.
+NlmId: 0370514
+--------------------------------------------------------
+JrId: 481
+JournalTitle: American sociological review
+MedAbbr: Am Sociol Rev
+ISSN (Print): 0003-1224
+ISSN (Online): 
+IsoAbbr: Am Sociol Rev
+NlmId: 0370515
+--------------------------------------------------------
+JrId: 482
+JournalTitle: The American surgeon
+MedAbbr: Am Surg
+ISSN (Print): 0003-1348
+ISSN (Online): 1555-9823
+IsoAbbr: Am Surg
+NlmId: 0370522
+--------------------------------------------------------
+JrId: 483
+JournalTitle: American zoologist
+MedAbbr: Am Zool
+ISSN (Print): 0003-1569
+ISSN (Online): 
+IsoAbbr: Am. Zool.
+NlmId: 0370516
+--------------------------------------------------------
+JrId: 484
+JournalTitle: Anais da Academia Brasileira de Ciencias
+MedAbbr: An Acad Bras Cienc
+ISSN (Print): 0001-3765
+ISSN (Online): 1678-2690
+IsoAbbr: An. Acad. Bras. Cienc.
+NlmId: 7503280
+--------------------------------------------------------
+JrId: 485
+JournalTitle: Anais brasileiros de dermatologia
+MedAbbr: An Bras Dermatol
+ISSN (Print): 0365-0596
+ISSN (Online): 1806-4841
+IsoAbbr: An Bras Dermatol
+NlmId: 0067662
+--------------------------------------------------------
+JrId: 486
+JournalTitle: Anais brasileiros de ginecologia
+MedAbbr: An Bras Ginecol
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: An Bras Ginecol
+NlmId: 1263440
+--------------------------------------------------------
+JrId: 487
+JournalTitle: Anales de cirugia
+MedAbbr: An Cir (Rosario)
+ISSN (Print): 0066-1465
+ISSN (Online): 
+IsoAbbr: An Cir (Rosario)
+NlmId: 0376524
+--------------------------------------------------------
+JrId: 488
+JournalTitle: Anais da Escola Nacional de Saude Publica e de Medicina Tropical
+MedAbbr: An Esc Nacl Saude Publica Med Trop (Lisb)
+ISSN (Print): 0075-9767
+ISSN (Online): 
+IsoAbbr: An Esc Nacl Saude Publica Med Trop (Lisb)
+NlmId: 7500780
+--------------------------------------------------------
+JrId: 489
+JournalTitle: Analytical and quantitative cytology
+MedAbbr: Anal Quant Cytol
+ISSN (Print): 0190-0471
+ISSN (Online): 
+IsoAbbr: Anal Quant Cytol
+NlmId: 7911206
+--------------------------------------------------------
+JrId: 490
+JournalTitle: Anales espanoles de odontoestomatologia
+MedAbbr: An Esp Odontoestomatol
+ISSN (Print): 0003-2557
+ISSN (Online): 
+IsoAbbr: An Esp Odontoestomatol
+NlmId: 0370533
+--------------------------------------------------------
+JrId: 491
+JournalTitle: Anales espanoles de pediatria
+MedAbbr: An Esp Pediatr
+ISSN (Print): 0302-4342
+ISSN (Online): 1577-2799
+IsoAbbr: An. Esp. Pediatr.
+NlmId: 0420463
+--------------------------------------------------------
+JrId: 492
+JournalTitle: Anales. Universidad Nacional Mayor de San Marcos. Facultad de Medicina
+MedAbbr: An Fac Med Lima
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: An Fac Med Lima
+NlmId: 18330640R
+--------------------------------------------------------
+JrId: 493
+JournalTitle: Anales de la Facultad de Medicina, Universidad de la Republica, Montevideo, Uruguay
+MedAbbr: An Fac Med Univ Repub Montev Urug
+ISSN (Print): 0365-2297
+ISSN (Online): 
+IsoAbbr: An Fac Med Univ Repub Montev Urug
+NlmId: 7506831
+--------------------------------------------------------
+JrId: 494
+JournalTitle: Anales de la Facultad de Odontologia
+MedAbbr: An Fac Odontol
+ISSN (Print): 0797-034X
+ISSN (Online): 
+IsoAbbr: An Fac Odontol
+NlmId: 7506832
+--------------------------------------------------------
+JrId: 495
+JournalTitle: Anais da Faculdade de Odontologia da Universidade Federal de Pernambuco
+MedAbbr: An Fac Odontol Univ Fed Pernambuco
+ISSN (Print): 0083-3908
+ISSN (Online): 
+IsoAbbr: An Fac Odontol Univ Fed Pernambuco
+NlmId: 7502729
+--------------------------------------------------------
+JrId: 496
+JournalTitle: Anasthesie, Intensivtherapie, Notfallmedizin
+MedAbbr: Anasth Intensivther Notfallmed
+ISSN (Print): 0174-1837
+ISSN (Online): 
+IsoAbbr: Anasth Intensivther Notfallmed
+NlmId: 8005775
+--------------------------------------------------------
+JrId: 498
+JournalTitle: Anais do Instituto de Higiene e Medicina Tropical
+MedAbbr: An Inst Hig Med Trop (Lisb)
+ISSN (Print): 0303-7762
+ISSN (Online): 
+IsoAbbr: An Inst Hig Med Trop (Lisb)
+NlmId: 7500781
+--------------------------------------------------------
+JrId: 499
+JournalTitle: Anales - Instituto de Investigaciones Odontologicas, Universidad del Zulia
+MedAbbr: An Inst Invest Odontol (Maracaibo)
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: An Inst Invest Odontol (Maracaibo)
+NlmId: 7506829
+--------------------------------------------------------
+JrId: 500
+JournalTitle: Anais do Instituto de Medicina Tropical
+MedAbbr: An Inst Med Trop (Lisb)
+ISSN (Print): 0365-3307
+ISSN (Online): 
+IsoAbbr: An Inst Med Trop (Lisb)
+NlmId: 7502512
+--------------------------------------------------------
+JrId: 501
+JournalTitle: Anales de medicina: Cirugia
+MedAbbr: An Med Cir
+ISSN (Print): 0517-6816
+ISSN (Online): 
+IsoAbbr: An Med Cir
+NlmId: 0377477
+--------------------------------------------------------
+JrId: 502
+JournalTitle: Anales de medicina: Especialidades
+MedAbbr: An Med Espec
+ISSN (Print): 0517-6832
+ISSN (Online): 
+IsoAbbr: An Med Espec
+NlmId: 0400163
+--------------------------------------------------------
+JrId: 503
+JournalTitle: Anales de medicina: Medicina
+MedAbbr: An Med Med
+ISSN (Print): 0517-6824
+ISSN (Online): 
+IsoAbbr: An Med Med
+NlmId: 0377500
+--------------------------------------------------------
+JrId: 504
+JournalTitle: Anais de microbiologia
+MedAbbr: An Microbiol (Rio J)
+ISSN (Print): 0485-1854
+ISSN (Online): 
+IsoAbbr: An Microbiol (Rio J)
+NlmId: 0413653
+--------------------------------------------------------
+JrId: 505
+JournalTitle: Anales otorrinolaringologicos ibero-americanos
+MedAbbr: An Otorrinolaringol Ibero Am
+ISSN (Print): 0303-8874
+ISSN (Online): 
+IsoAbbr: An Otorrinolaringol Ibero Am
+NlmId: 7605535
+--------------------------------------------------------
+JrId: 506
+JournalTitle: Anais paulistas de medicina e cirurgia
+MedAbbr: An Paul Med Cir
+ISSN (Print): 0003-245X
+ISSN (Online): 
+IsoAbbr: An Paul Med Cir
+NlmId: 0373070
+--------------------------------------------------------
+JrId: 507
+JournalTitle: Anales del Programa Academico de Medicina / Universidad Nacional Mayor de San Marcos de Lima
+MedAbbr: An Programa Acad Med (Lima)
+ISSN (Print): 0300-9025
+ISSN (Online): 
+IsoAbbr: An Programa Acad Med (Lima)
+NlmId: 0264671
+--------------------------------------------------------
+JrId: 508
+JournalTitle: Anales de la Real Academia de Farmacia
+MedAbbr: An Real Acad Farm
+ISSN (Print): 0034-0618
+ISSN (Online): 1697-4298
+IsoAbbr: An Real Acad Farm
+NlmId: 14490140R
+--------------------------------------------------------
+JrId: 509
+JournalTitle: Anales de la Real Academia Nacional de Medicina
+MedAbbr: An R Acad Nac Med (Madr)
+ISSN (Print): 0034-0634
+ISSN (Online): 
+IsoAbbr: An R Acad Nac Med (Madr)
+NlmId: 7505188
+--------------------------------------------------------
+JrId: 510
+JournalTitle: ANA clinical sessions
+MedAbbr: ANA Clin Sess
+ISSN (Print): 0065-9495
+ISSN (Online): 
+IsoAbbr: ANA Clin Sess
+NlmId: 7511412
+--------------------------------------------------------
+JrId: 511
+JournalTitle: American Nurses Association Publications
+MedAbbr: ANA Publ
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: ANA Publ
+NlmId: 9870008
+--------------------------------------------------------
+JrId: 512
+JournalTitle: ANA clinical conferences
+MedAbbr: ANA Clin Conf
+ISSN (Print): 0093-0423
+ISSN (Online): 
+IsoAbbr: ANA Clin Conf
+NlmId: 7509335
+--------------------------------------------------------
+JrId: 513
+JournalTitle: Anaesthesia and intensive care
+MedAbbr: Anaesth Intensive Care
+ISSN (Print): 0310-057X
+ISSN (Online): 1448-0271
+IsoAbbr: Anaesth Intensive Care
+NlmId: 0342017
+--------------------------------------------------------
+JrId: 514
+JournalTitle: Anaesthesia, resuscitation, and intensive therapy
+MedAbbr: Anaesth Resusc Intensive Ther
+ISSN (Print): 0301-0864
+ISSN (Online): 
+IsoAbbr: Anaesth Resusc Intensive Ther
+NlmId: 0371112
+--------------------------------------------------------
+JrId: 515
+JournalTitle: Anaesthesia
+MedAbbr: Anaesthesia
+ISSN (Print): 0003-2409
+ISSN (Online): 1365-2044
+IsoAbbr: Anaesthesia
+NlmId: 0370524
+--------------------------------------------------------
+JrId: 516
+JournalTitle: Anasthesiologische und intensivmedizinische Praxis
+MedAbbr: Anasthesiol Intensivmed Prax
+ISSN (Print): 0303-6200
+ISSN (Online): 
+IsoAbbr: Anasthesiol Intensivmed Prax
+NlmId: 0436571
+--------------------------------------------------------
+JrId: 517
+JournalTitle: Der Anaesthesist
+MedAbbr: Anaesthesist
+ISSN (Print): 0003-2417
+ISSN (Online): 1432-055X
+IsoAbbr: Anaesthesist
+NlmId: 0370525
+--------------------------------------------------------
+JrId: 518
+JournalTitle: Analytical biochemistry
+MedAbbr: Anal Biochem
+ISSN (Print): 0003-2697
+ISSN (Online): 1096-0309
+IsoAbbr: Anal. Biochem.
+NlmId: 0370535
+--------------------------------------------------------
+JrId: 519
+JournalTitle: Analytical chemistry
+MedAbbr: Anal Chem
+ISSN (Print): 0003-2700
+ISSN (Online): 1520-6882
+IsoAbbr: Anal. Chem.
+NlmId: 0370536
+--------------------------------------------------------
+JrId: 520
+JournalTitle: Analytica chimica acta
+MedAbbr: Anal Chim Acta
+ISSN (Print): 0003-2670
+ISSN (Online): 1873-4324
+IsoAbbr: Anal. Chim. Acta
+NlmId: 0370534
+--------------------------------------------------------
+JrId: 521
+JournalTitle: The Analyst
+MedAbbr: Analyst
+ISSN (Print): 0003-2654
+ISSN (Online): 1364-5528
+IsoAbbr: Analyst
+NlmId: 0372652
+--------------------------------------------------------
+JrId: 522
+JournalTitle: Anatomischer Anzeiger
+MedAbbr: Anat Anz
+ISSN (Print): 0003-2786
+ISSN (Online): 
+IsoAbbr: Anat Anz
+NlmId: 0370541
+--------------------------------------------------------
+JrId: 523
+JournalTitle: Anatomia, histologia, embryologia
+MedAbbr: Anat Histol Embryol
+ISSN (Print): 0340-2096
+ISSN (Online): 1439-0264
+IsoAbbr: Anat Histol Embryol
+NlmId: 7704218
+--------------------------------------------------------
+JrId: 524
+JournalTitle: Anatomy and embryology
+MedAbbr: Anat Embryol (Berl)
+ISSN (Print): 0340-2061
+ISSN (Online): 1432-0568
+IsoAbbr: Anat. Embryol.
+NlmId: 7505194
+--------------------------------------------------------
+JrId: 525
+JournalTitle: The Anatomical record
+MedAbbr: Anat Rec
+ISSN (Print): 0003-276X
+ISSN (Online): 1097-0185
+IsoAbbr: Anat. Rec.
+NlmId: 0370540
+--------------------------------------------------------
+JrId: 526
+JournalTitle: The Anatomical record. Supplement : an offical publication of the American Association of Anatomists
+MedAbbr: Anat Rec Suppl
+ISSN (Print): 0749-3002
+ISSN (Online): 
+IsoAbbr: Anat Rec Suppl
+NlmId: 8402176
+--------------------------------------------------------
+JrId: 527
+JournalTitle: Andrologia
+MedAbbr: Andrologia
+ISSN (Print): 0303-4569
+ISSN (Online): 1439-0272
+IsoAbbr: Andrologia
+NlmId: 0423506
+--------------------------------------------------------
+JrId: 528
+JournalTitle: Andrologie
+MedAbbr: Andrologie
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Andrologie
+NlmId: 0423126
+--------------------------------------------------------
+JrId: 529
+JournalTitle: ANEC
+MedAbbr: ANEC
+ISSN (Print): 0044-930X
+ISSN (Online): 
+IsoAbbr: ANEC
+NlmId: 1304656
+--------------------------------------------------------
+JrId: 530
+JournalTitle: Anesthesia and analgesia
+MedAbbr: Anesth Analg
+ISSN (Print): 0003-2999
+ISSN (Online): 1526-7598
+IsoAbbr: Anesth. Analg.
+NlmId: 1310650
+--------------------------------------------------------
+JrId: 531
+JournalTitle: Anesthesie, analgesie, reanimation
+MedAbbr: Anesth Analg (Paris)
+ISSN (Print): 0003-3014
+ISSN (Online): 
+IsoAbbr: Anesth Analg (Paris)
+NlmId: 0404017
+--------------------------------------------------------
+JrId: 532
+JournalTitle: Anesthesia progress
+MedAbbr: Anesth Prog
+ISSN (Print): 0003-3006
+ISSN (Online): 
+IsoAbbr: Anesth Prog
+NlmId: 0043533
+--------------------------------------------------------
+JrId: 533
+JournalTitle: Anesthesiology
+MedAbbr: Anesthesiology
+ISSN (Print): 0003-3022
+ISSN (Online): 1528-1175
+IsoAbbr: Anesthesiology
+NlmId: 1300217
+--------------------------------------------------------
+JrId: 534
+JournalTitle: Anesteziologiia i reanimatologiia
+MedAbbr: Anesteziol Reanimatol
+ISSN (Print): 0201-7563
+ISSN (Online): 
+IsoAbbr: Anesteziol Reanimatol
+NlmId: 7705399
+--------------------------------------------------------
+JrId: 535
+JournalTitle: Angeiologie
+MedAbbr: Angeiologie
+ISSN (Print): 0003-3049
+ISSN (Online): 
+IsoAbbr: Angeiologie
+NlmId: 0060612
+--------------------------------------------------------
+JrId: 536
+JournalTitle: American journal of infection control
+MedAbbr: Am J Infect Control
+ISSN (Print): 0196-6553
+ISSN (Online): 1527-3296
+IsoAbbr: Am J Infect Control
+NlmId: 8004854
+--------------------------------------------------------
+JrId: 537
+JournalTitle: Angewandte Chemie (International ed. in English)
+MedAbbr: Angew Chem Int Ed Engl
+ISSN (Print): 1433-7851
+ISSN (Online): 1521-3773
+IsoAbbr: Angew. Chem. Int. Ed. Engl.
+NlmId: 0370543
+--------------------------------------------------------
+JrId: 538
+JournalTitle: Angewandte Parasitologie
+MedAbbr: Angew Parasitol
+ISSN (Print): 0003-3162
+ISSN (Online): 
+IsoAbbr: Angew Parasitol
+NlmId: 0370544
+--------------------------------------------------------
+JrId: 539
+JournalTitle: Angiologia
+MedAbbr: Angiologia
+ISSN (Print): 0003-3170
+ISSN (Online): 
+IsoAbbr: Angiologia
+NlmId: 0370545
+--------------------------------------------------------
+JrId: 540
+JournalTitle: Angiologica
+MedAbbr: Angiologica
+ISSN (Print): 0003-3189
+ISSN (Online): 
+IsoAbbr: Angiologica
+NlmId: 0427125
+--------------------------------------------------------
+JrId: 541
+JournalTitle: Angiology
+MedAbbr: Angiology
+ISSN (Print): 0003-3197
+ISSN (Online): 1940-1574
+IsoAbbr: Angiology
+NlmId: 0203706
+--------------------------------------------------------
+JrId: 542
+JournalTitle: The Angle orthodontist
+MedAbbr: Angle Orthod
+ISSN (Print): 0003-3219
+ISSN (Online): 1945-7103
+IsoAbbr: Angle Orthod
+NlmId: 0370550
+--------------------------------------------------------
+JrId: 543
+JournalTitle: Anglo-German medical review. Deutsch-englische medizinische Rundschau
+MedAbbr: Anglo Ger Med Rev
+ISSN (Print): 0003-3332
+ISSN (Online): 
+IsoAbbr: Anglo Ger Med Rev
+NlmId: 7611915
+--------------------------------------------------------
+JrId: 544
+JournalTitle: Animal behaviour
+MedAbbr: Anim Behav
+ISSN (Print): 0003-3472
+ISSN (Online): 
+IsoAbbr: Anim Behav
+NlmId: 0376746
+--------------------------------------------------------
+JrId: 545
+JournalTitle: Animal blood groups and biochemical genetics
+MedAbbr: Anim Blood Groups Biochem Genet
+ISSN (Print): 0003-3480
+ISSN (Online): 
+IsoAbbr: Anim Blood Groups Biochem Genet
+NlmId: 0263344
+--------------------------------------------------------
+JrId: 546
+JournalTitle: Animal blood groups and biochemical genetics. Supplement
+MedAbbr: Anim Blood Groups Biochem Genet Suppl
+ISSN (Print): 0300-5518
+ISSN (Online): 
+IsoAbbr: Anim Blood Groups Biochem Genet Suppl
+NlmId: 0356270
+--------------------------------------------------------
+JrId: 547
+JournalTitle: Animal genetics
+MedAbbr: Anim Genet
+ISSN (Print): 0268-9146
+ISSN (Online): 1365-2052
+IsoAbbr: Anim. Genet.
+NlmId: 8605704
+--------------------------------------------------------
+JrId: 548
+JournalTitle: Annales Academiae Medicae Stetinensis
+MedAbbr: Ann Acad Med Stetin
+ISSN (Print): 1427-440X
+ISSN (Online): 
+IsoAbbr: Ann Acad Med Stetin
+NlmId: 7506854
+--------------------------------------------------------
+JrId: 549
+JournalTitle: Suomalainen Tiedeakatemia toimituksia. Sar. A.4: Biologica
+MedAbbr: Ann Acad Sci Fenn Biol
+ISSN (Print): 0066-1988
+ISSN (Online): 
+IsoAbbr: Ann Acad Sci Fenn Biol
+NlmId: 0413756
+--------------------------------------------------------
+JrId: 550
+JournalTitle: Annales Academiae Medicae Stetinensis. Suplement
+MedAbbr: Ann Acad Med Stetin Supl
+ISSN (Print): 1427-4930
+ISSN (Online): 
+IsoAbbr: Ann Acad Med Stetin Supl
+NlmId: 7506853
+--------------------------------------------------------
+JrId: 551
+JournalTitle: Annales Academiae Scientiarum Fennicae. Ser. A.5, Medica
+MedAbbr: Ann Acad Sci Fenn A
+ISSN (Print): 0066-1996
+ISSN (Online): 
+IsoAbbr: Ann Acad Sci Fenn A
+NlmId: 7604095
+--------------------------------------------------------
+JrId: 552
+JournalTitle: Annals of allergy
+MedAbbr: Ann Allergy
+ISSN (Print): 0003-4738
+ISSN (Online): 
+IsoAbbr: Ann Allergy
+NlmId: 0372346
+--------------------------------------------------------
+JrId: 553
+JournalTitle: Annales d'anatomie pathologique
+MedAbbr: Ann Anat Pathol (Paris)
+ISSN (Print): 0003-3871
+ISSN (Online): 
+IsoAbbr: Ann Anat Pathol (Paris)
+NlmId: 0370553
+--------------------------------------------------------
+JrId: 554
+JournalTitle: Annales de l'anesthesiologie francaise
+MedAbbr: Ann Anesthesiol Fr
+ISSN (Print): 0003-4061
+ISSN (Online): 
+IsoAbbr: Ann Anesthesiol Fr
+NlmId: 0372332
+--------------------------------------------------------
+JrId: 555
+JournalTitle: The Annals of applied biology
+MedAbbr: Ann Appl Biol
+ISSN (Print): 0003-4746
+ISSN (Online): 
+IsoAbbr: Ann. Appl. Biol.
+NlmId: 0064717
+--------------------------------------------------------
+JrId: 556
+JournalTitle: Annals of the Australian College of Dental Surgeons
+MedAbbr: Ann Aust Coll Dent Surg
+ISSN (Print): 0004-8895
+ISSN (Online): 
+IsoAbbr: Ann Aust Coll Dent Surg
+NlmId: 7513553
+--------------------------------------------------------
+JrId: 557
+JournalTitle: Annals of emergency medicine
+MedAbbr: Ann Emerg Med
+ISSN (Print): 0196-0644
+ISSN (Online): 1097-6760
+IsoAbbr: Ann Emerg Med
+NlmId: 8002646
+--------------------------------------------------------
+JrId: 558
+JournalTitle: Annales de biologie animale, biochimie, biophysique
+MedAbbr: Ann Biol Anim Biochim Biophys
+ISSN (Print): 0003-388X
+ISSN (Online): 
+IsoAbbr: Ann Biol Anim Biochim Biophys
+NlmId: 0040752
+--------------------------------------------------------
+JrId: 559
+JournalTitle: Annales de biologie clinique
+MedAbbr: Ann Biol Clin (Paris)
+ISSN (Print): 0003-3898
+ISSN (Online): 1950-6112
+IsoAbbr: Ann. Biol. Clin. (Paris)
+NlmId: 2984690R
+--------------------------------------------------------
+JrId: 560
+JournalTitle: Annales francaises d'anesthesie et de reanimation
+MedAbbr: Ann Fr Anesth Reanim
+ISSN (Print): 0750-7658
+ISSN (Online): 1769-6623
+IsoAbbr: Ann Fr Anesth Reanim
+NlmId: 8213275
+--------------------------------------------------------
+JrId: 561
+JournalTitle: Annals of biomedical engineering
+MedAbbr: Ann Biomed Eng
+ISSN (Print): 0090-6964
+ISSN (Online): 1573-9686
+IsoAbbr: Ann Biomed Eng
+NlmId: 0361512
+--------------------------------------------------------
+JrId: 562
+JournalTitle: Annales de cardiologie et d'angeiologie
+MedAbbr: Ann Cardiol Angeiol (Paris)
+ISSN (Print): 0003-3928
+ISSN (Online): 1768-3181
+IsoAbbr: Ann Cardiol Angeiol (Paris)
+NlmId: 0142167
+--------------------------------------------------------
+JrId: 563
+JournalTitle: Annales de chirurgie
+MedAbbr: Ann Chir
+ISSN (Print): 0003-3944
+ISSN (Online): 
+IsoAbbr: Ann Chir
+NlmId: 0140722
+--------------------------------------------------------
+JrId: 564
+JournalTitle: Annales chirurgiae et gynaecologiae Fenniae
+MedAbbr: Ann Chir Gynaecol Fenn
+ISSN (Print): 0003-3855
+ISSN (Online): 
+IsoAbbr: Ann Chir Gynaecol Fenn
+NlmId: 7609198
+--------------------------------------------------------
+JrId: 565
+JournalTitle: Annales de chirurgie infantile
+MedAbbr: Ann Chir Infant
+ISSN (Print): 0003-3952
+ISSN (Online): 
+IsoAbbr: Ann Chir Infant
+NlmId: 0376315
+--------------------------------------------------------
+JrId: 566
+JournalTitle: Annales chirurgiae et gynaecologiae
+MedAbbr: Ann Chir Gynaecol
+ISSN (Print): 0355-9521
+ISSN (Online): 
+IsoAbbr: Ann Chir Gynaecol
+NlmId: 7609767
+--------------------------------------------------------
+JrId: 567
+JournalTitle: Annales chirurgiae et gynaecologiae. Supplementum
+MedAbbr: Ann Chir Gynaecol Suppl
+ISSN (Print): 0355-9874
+ISSN (Online): 
+IsoAbbr: Ann Chir Gynaecol Suppl
+NlmId: 7702959
+--------------------------------------------------------
+JrId: 568
+JournalTitle: Annales chirurgiae et gynaecologiae Fenniae. Supplementum
+MedAbbr: Ann Chir Gynaecol Fenn Suppl
+ISSN (Print): 0066-2038
+ISSN (Online): 
+IsoAbbr: Ann Chir Gynaecol Fenn Suppl
+NlmId: 7702958
+--------------------------------------------------------
+JrId: 569
+JournalTitle: Annales de chirurgie plastique
+MedAbbr: Ann Chir Plast
+ISSN (Print): 0003-3960
+ISSN (Online): 
+IsoAbbr: Ann Chir Plast
+NlmId: 2983317R
+--------------------------------------------------------
+JrId: 570
+JournalTitle: Annales de chirurgie plastique et esthetique
+MedAbbr: Ann Chir Plast Esthet
+ISSN (Print): 0294-1260
+ISSN (Online): 1768-319X
+IsoAbbr: Ann Chir Plast Esthet
+NlmId: 8305839
+--------------------------------------------------------
+JrId: 571
+JournalTitle: Annales de chirurgie thoracique et cardio-vasculaire
+MedAbbr: Ann Chir Thorac Cardiovasc
+ISSN (Print): 0066-2054
+ISSN (Online): 
+IsoAbbr: Ann Chir Thorac Cardiovasc
+NlmId: 0140655
+--------------------------------------------------------
+JrId: 572
+JournalTitle: The Annals of the American Academy of Political and Social Science
+MedAbbr: Ann Am Acad Pol Soc Sci
+ISSN (Print): 0002-7162
+ISSN (Online): 
+IsoAbbr: Ann Am Acad Pol Soc Sci
+NlmId: 7505202
+--------------------------------------------------------
+JrId: 573
+JournalTitle: Annals of clinical biochemistry
+MedAbbr: Ann Clin Biochem
+ISSN (Print): 0004-5632
+ISSN (Online): 1758-1001
+IsoAbbr: Ann. Clin. Biochem.
+NlmId: 0324055
+--------------------------------------------------------
+JrId: 574
+JournalTitle: Annals of clinical and laboratory science
+MedAbbr: Ann Clin Lab Sci
+ISSN (Print): 0091-7370
+ISSN (Online): 1550-8080
+IsoAbbr: Ann. Clin. Lab. Sci.
+NlmId: 0410247
+--------------------------------------------------------
+JrId: 575
+JournalTitle: Annals of clinical research
+MedAbbr: Ann Clin Res
+ISSN (Print): 0003-4762
+ISSN (Online): 
+IsoAbbr: Ann. Clin. Res.
+NlmId: 0220042
+--------------------------------------------------------
+JrId: 576
+JournalTitle: Annals of the Academy of Medicine, Singapore
+MedAbbr: Ann Acad Med Singapore
+ISSN (Print): 0304-4602
+ISSN (Online): 
+IsoAbbr: Ann. Acad. Med. Singap.
+NlmId: 7503289
+--------------------------------------------------------
+JrId: 577
+JournalTitle: Annals of dentistry
+MedAbbr: Ann Dent
+ISSN (Print): 0003-4770
+ISSN (Online): 
+IsoAbbr: Ann Dent
+NlmId: 0372350
+--------------------------------------------------------
+JrId: 578
+JournalTitle: Annales de dermatologie et de syphiligraphie
+MedAbbr: Ann Dermatol Syphiligr (Paris)
+ISSN (Print): 0003-3979
+ISSN (Online): 
+IsoAbbr: Ann Dermatol Syphiligr (Paris)
+NlmId: 0370561
+--------------------------------------------------------
+JrId: 579
+JournalTitle: Annales d'endocrinologie
+MedAbbr: Ann Endocrinol (Paris)
+ISSN (Print): 0003-4266
+ISSN (Online): 
+IsoAbbr: Ann. Endocrinol. (Paris)
+NlmId: 0116744
+--------------------------------------------------------
+JrId: 580
+JournalTitle: Annals of the Entomological Society of America
+MedAbbr: Ann Entomol Soc Am
+ISSN (Print): 0013-8746
+ISSN (Online): 1938-2901
+IsoAbbr: Ann. Entomol. Soc. Am.
+NlmId: 7503290
+--------------------------------------------------------
+JrId: 581
+JournalTitle: Annales de gastroenterologie et d'hepatologie
+MedAbbr: Ann Gastroenterol Hepatol (Paris)
+ISSN (Print): 0066-2070
+ISSN (Online): 
+IsoAbbr: Ann Gastroenterol Hepatol (Paris)
+NlmId: 0263111
+--------------------------------------------------------
+JrId: 582
+JournalTitle: Annales de genetique
+MedAbbr: Ann Genet
+ISSN (Print): 0003-3995
+ISSN (Online): 
+IsoAbbr: Ann. Genet.
+NlmId: 0370562
+--------------------------------------------------------
+JrId: 583
+JournalTitle: Annales d'histochimie
+MedAbbr: Ann Histochim
+ISSN (Print): 0003-4355
+ISSN (Online): 
+IsoAbbr: Ann Histochim
+NlmId: 0370554
+--------------------------------------------------------
+JrId: 584
+JournalTitle: Annals of human biology
+MedAbbr: Ann Hum Biol
+ISSN (Print): 0301-4460
+ISSN (Online): 1464-5033
+IsoAbbr: Ann. Hum. Biol.
+NlmId: 0404024
+--------------------------------------------------------
+JrId: 585
+JournalTitle: Annals of human genetics
+MedAbbr: Ann Hum Genet
+ISSN (Print): 0003-4800
+ISSN (Online): 1469-1809
+IsoAbbr: Ann. Hum. Genet.
+NlmId: 0416661
+--------------------------------------------------------
+JrId: 586
+JournalTitle: Annals of nutrition & metabolism
+MedAbbr: Ann Nutr Metab
+ISSN (Print): 0250-6807
+ISSN (Online): 1421-9697
+IsoAbbr: Ann. Nutr. Metab.
+NlmId: 8105511
+--------------------------------------------------------
+JrId: 587
+JournalTitle: Annales d'immunologie
+MedAbbr: Ann Immunol (Paris)
+ISSN (Print): 0300-4910
+ISSN (Online): 
+IsoAbbr: Ann. Immunol. (Paris)
+NlmId: 0353045
+--------------------------------------------------------
+JrId: 588
+JournalTitle: Annales immunologiae Hungaricae
+MedAbbr: Ann Immunol Hung
+ISSN (Print): 0570-1708
+ISSN (Online): 
+IsoAbbr: Ann Immunol Hung
+NlmId: 0373074
+--------------------------------------------------------
+JrId: 589
+JournalTitle: Annales de l'Institut Pasteur
+MedAbbr: Ann Inst Pasteur (Paris)
+ISSN (Print): 0020-2444
+ISSN (Online): 
+IsoAbbr: Ann Inst Pasteur (Paris)
+NlmId: 7512320
+--------------------------------------------------------
+JrId: 590
+JournalTitle: Annales de l'Institut Pasteur. Immunologie
+MedAbbr: Ann Inst Pasteur Immunol
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Ann. Inst. Pasteur Immunol.
+NlmId: 8503043
+--------------------------------------------------------
+JrId: 591
+JournalTitle: Annales de l'Institut Pasteur de Lille
+MedAbbr: Ann Inst Pasteur Lille
+ISSN (Print): 0073-8573
+ISSN (Online): 
+IsoAbbr: Ann Inst Pasteur Lille
+NlmId: 7502518
+--------------------------------------------------------
+JrId: 592
+JournalTitle: Anticancer research
+MedAbbr: Anticancer Res
+ISSN (Print): 0250-7005
+ISSN (Online): 1791-7530
+IsoAbbr: Anticancer Res.
+NlmId: 8102988
+--------------------------------------------------------
+JrId: 593
+JournalTitle: Annales de l'Institut Pasteur. Microbiologie
+MedAbbr: Ann Inst Pasteur Microbiol
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Ann. Inst. Pasteur Microbiol.
+NlmId: 8503044
+--------------------------------------------------------
+JrId: 594
+JournalTitle: Acta de odontologia pediatrica
+MedAbbr: Acta Odontol Pediatr
+ISSN (Print): 0252-1032
+ISSN (Online): 
+IsoAbbr: Acta Odontol Pediatr
+NlmId: 8112880
+--------------------------------------------------------
+JrId: 595
+JournalTitle: Annals of the ICRP
+MedAbbr: Ann ICRP
+ISSN (Print): 0146-6453
+ISSN (Online): 1872-969X
+IsoAbbr: Ann ICRP
+NlmId: 7708044
+--------------------------------------------------------
+JrId: 596
+JournalTitle: Annals of internal medicine
+MedAbbr: Ann Intern Med
+ISSN (Print): 0003-4819
+ISSN (Online): 1539-3704
+IsoAbbr: Ann. Intern. Med.
+NlmId: 0372351
+--------------------------------------------------------
+JrId: 597
+JournalTitle: Annali dell'Istituto "Carlo Forlanini"
+MedAbbr: Ann Ist Carlo Forlanini
+ISSN (Print): 0021-2431
+ISSN (Online): 
+IsoAbbr: Ann Ist Carlo Forlanini
+NlmId: 7502519
+--------------------------------------------------------
+JrId: 598
+JournalTitle: Annali dell'Istituto superiore di sanita
+MedAbbr: Ann Ist Super Sanita
+ISSN (Print): 0021-2571
+ISSN (Online): 
+IsoAbbr: Ann. Ist. Super. Sanita
+NlmId: 7502520
+--------------------------------------------------------
+JrId: 599
+JournalTitle: Annali italiani di chirurgia
+MedAbbr: Ann Ital Chir
+ISSN (Print): 0003-469X
+ISSN (Online): 2239-253X
+IsoAbbr: Ann Ital Chir
+NlmId: 0372343
+--------------------------------------------------------
+JrId: 600
+JournalTitle: Annali di laringologia, otologia, rinologia, faringologia
+MedAbbr: Ann Laringol Otol Rinol Faringol
+ISSN (Print): 0066-2267
+ISSN (Online): 
+IsoAbbr: Ann Laringol Otol Rinol Faringol
+NlmId: 0400641
+--------------------------------------------------------
+JrId: 601
+JournalTitle: Annales medicinae experimentalis et biologiae Fenniae
+MedAbbr: Ann Med Exp Biol Fenn
+ISSN (Print): 0003-4479
+ISSN (Online): 
+IsoAbbr: Ann Med Exp Biol Fenn
+NlmId: 0420465
+--------------------------------------------------------
+JrId: 602
+JournalTitle: Annales medicinae internae Fenniae
+MedAbbr: Ann Med Intern Fenn
+ISSN (Print): 0365-4362
+ISSN (Online): 
+IsoAbbr: Ann Med Intern Fenn
+NlmId: 0221122
+--------------------------------------------------------
+JrId: 603
+JournalTitle: Annales de medecine interne
+MedAbbr: Ann Med Interne (Paris)
+ISSN (Print): 0003-410X
+ISSN (Online): 
+IsoAbbr: Ann Med Interne (Paris)
+NlmId: 0171744
+--------------------------------------------------------
+JrId: 604
+JournalTitle: Annales de medecine legale, criminologie, police scientifique et toxicologie
+MedAbbr: Ann Med Leg Criminol Police Sci Toxicol
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Ann Med Leg Criminol Police Sci Toxicol
+NlmId: 15010050R
+--------------------------------------------------------
+JrId: 605
+JournalTitle: Annales medicales de Nancy
+MedAbbr: Ann Med Nancy
+ISSN (Print): 0003-4460
+ISSN (Online): 
+IsoAbbr: Ann Med Nancy
+NlmId: 0372333
+--------------------------------------------------------
+JrId: 606
+JournalTitle: Annali di medicina navale
+MedAbbr: Ann Med Nav (Roma)
+ISSN (Print): 0392-9418
+ISSN (Online): 
+IsoAbbr: Ann Med Nav (Roma)
+NlmId: 0373072
+--------------------------------------------------------
+JrId: 607
+JournalTitle: Annales medico-psychologiques
+MedAbbr: Ann Med Psychol (Paris)
+ISSN (Print): 0003-4487
+ISSN (Online): 
+IsoAbbr: Ann Med Psychol (Paris)
+NlmId: 2984692R
+--------------------------------------------------------
+JrId: 608
+JournalTitle: Annales de microbiologie
+MedAbbr: Ann Microbiol (Paris)
+ISSN (Print): 0300-5410
+ISSN (Online): 
+IsoAbbr: Ann. Microbiol. (Paris)
+NlmId: 0354704
+--------------------------------------------------------
+JrId: 609
+JournalTitle: Annales Nestle. [Ed. francaise]
+MedAbbr: Ann Nestle Fr
+ISSN (Print): 0250-9644
+ISSN (Online): 1661-3732
+IsoAbbr: Ann Nestle Fr
+NlmId: 2984694R
+--------------------------------------------------------
+JrId: 610
+JournalTitle: Annales de la nutrition et de l'alimentation
+MedAbbr: Ann Nutr Aliment
+ISSN (Print): 0003-4037
+ISSN (Online): 
+IsoAbbr: Ann Nutr Aliment
+NlmId: 0372653
+--------------------------------------------------------
+JrId: 611
+JournalTitle: Annals of the New York Academy of Sciences
+MedAbbr: Ann N Y Acad Sci
+ISSN (Print): 0077-8923
+ISSN (Online): 1749-6632
+IsoAbbr: Ann. N. Y. Acad. Sci.
+NlmId: 7506858
+--------------------------------------------------------
+JrId: 612
+JournalTitle: The Annals of occupational hygiene
+MedAbbr: Ann Occup Hyg
+ISSN (Print): 0003-4878
+ISSN (Online): 1475-3162
+IsoAbbr: Ann Occup Hyg
+NlmId: 0203526
+--------------------------------------------------------
+JrId: 613
+JournalTitle: Annales d'oculistique
+MedAbbr: Ann Ocul (Paris)
+ISSN (Print): 0003-4371
+ISSN (Online): 
+IsoAbbr: Ann Ocul (Paris)
+NlmId: 0370555
+--------------------------------------------------------
+JrId: 614
+JournalTitle: Annales odonto-stomatologiques
+MedAbbr: Ann Odontostomatol (Lyon)
+ISSN (Print): 0066-2194
+ISSN (Online): 
+IsoAbbr: Ann Odontostomatol (Lyon)
+NlmId: 0401032
+--------------------------------------------------------
+JrId: 615
+JournalTitle: Annals of ophthalmology
+MedAbbr: Ann Ophthalmol
+ISSN (Print): 0003-4886
+ISSN (Online): 
+IsoAbbr: Ann Ophthalmol
+NlmId: 0210137
+--------------------------------------------------------
+JrId: 616
+JournalTitle: Annali dell'Ospedale Maria Vittoria di Torino
+MedAbbr: Ann Osp Maria Vittoria Torino
+ISSN (Print): 0390-5454
+ISSN (Online): 
+IsoAbbr: Ann Osp Maria Vittoria Torino
+NlmId: 7511607
+--------------------------------------------------------
+JrId: 617
+JournalTitle: Annali di ostetricia, ginecologia, medicina perinatale
+MedAbbr: Ann Ostet Ginecol Med Perinat
+ISSN (Print): 0300-0087
+ISSN (Online): 
+IsoAbbr: Ann Ostet Ginecol Med Perinat
+NlmId: 0347360
+--------------------------------------------------------
+JrId: 618
+JournalTitle: The Annals of otology, rhinology, and laryngology
+MedAbbr: Ann Otol Rhinol Laryngol
+ISSN (Print): 0003-4894
+ISSN (Online): 1943-572X
+IsoAbbr: Ann. Otol. Rhinol. Laryngol.
+NlmId: 0407300
+--------------------------------------------------------
+JrId: 619
+JournalTitle: The Annals of otology, rhinology & laryngology. Supplement
+MedAbbr: Ann Otol Rhinol Laryngol Suppl
+ISSN (Print): 0096-8056
+ISSN (Online): 
+IsoAbbr: Ann Otol Rhinol Laryngol Suppl
+NlmId: 1256156
+--------------------------------------------------------
+JrId: 620
+JournalTitle: Annales d'oto-laryngologie et de chirurgie cervico faciale : bulletin de la Societe d'oto-laryngologie des hopitaux de Paris
+MedAbbr: Ann Otolaryngol Chir Cervicofac
+ISSN (Print): 0003-438X
+ISSN (Online): 
+IsoAbbr: Ann Otolaryngol Chir Cervicofac
+NlmId: 9431026
+--------------------------------------------------------
+JrId: 621
+JournalTitle: Annali di ottalmologia e clinica oculistica
+MedAbbr: Ann Ottalmol Clin Ocul
+ISSN (Print): 0003-4665
+ISSN (Online): 
+IsoAbbr: Ann Ottalmol Clin Ocul
+NlmId: 9309994
+--------------------------------------------------------
+JrId: 622
+JournalTitle: Annales de dermatologie et de venereologie
+MedAbbr: Ann Dermatol Venereol
+ISSN (Print): 0151-9638
+ISSN (Online): 
+IsoAbbr: Ann Dermatol Venereol
+NlmId: 7702013
+--------------------------------------------------------
+JrId: 623
+JournalTitle: Annales paediatrici. International review of pediatrics
+MedAbbr: Ann Paediatr
+ISSN (Print): 0365-4966
+ISSN (Online): 
+IsoAbbr: Ann Paediatr
+NlmId: 2984695R
+--------------------------------------------------------
+JrId: 624
+JournalTitle: Annales paediatriae Fenniae
+MedAbbr: Ann Paediatr Fenn
+ISSN (Print): 0570-1732
+ISSN (Online): 
+IsoAbbr: Ann Paediatr Fenn
+NlmId: 0221123
+--------------------------------------------------------
+JrId: 625
+JournalTitle: Annales de parasitologie humaine et comparee
+MedAbbr: Ann Parasitol Hum Comp
+ISSN (Print): 0003-4150
+ISSN (Online): 
+IsoAbbr: Ann Parasitol Hum Comp
+NlmId: 0376525
+--------------------------------------------------------
+JrId: 626
+JournalTitle: Annales de pediatrie
+MedAbbr: Ann Pediatr (Paris)
+ISSN (Print): 0066-2097
+ISSN (Online): 
+IsoAbbr: Ann Pediatr (Paris)
+NlmId: 2984696R
+--------------------------------------------------------
+JrId: 627
+JournalTitle: Annales pharmaceutiques francaises
+MedAbbr: Ann Pharm Fr
+ISSN (Print): 0003-4509
+ISSN (Online): 
+IsoAbbr: Ann Pharm Fr
+NlmId: 2985176R
+--------------------------------------------------------
+JrId: 628
+JournalTitle: Annals of plastic surgery
+MedAbbr: Ann Plast Surg
+ISSN (Print): 0148-7043
+ISSN (Online): 1536-3708
+IsoAbbr: Ann Plast Surg
+NlmId: 7805336
+--------------------------------------------------------
+JrId: 629
+JournalTitle: Annals of physical medicine
+MedAbbr: Ann Phys Med
+ISSN (Print): 0365-5547
+ISSN (Online): 
+IsoAbbr: Ann Phys Med
+NlmId: 0256644
+--------------------------------------------------------
+JrId: 630
+JournalTitle: Annals of the Royal College of Surgeons of England
+MedAbbr: Ann R Coll Surg Engl
+ISSN (Print): 0035-8843
+ISSN (Online): 1478-7083
+IsoAbbr: Ann R Coll Surg Engl
+NlmId: 7506860
+--------------------------------------------------------
+JrId: 631
+JournalTitle: Annales de radiologie
+MedAbbr: Ann Radiol (Paris)
+ISSN (Print): 0003-4185
+ISSN (Online): 
+IsoAbbr: Ann Radiol (Paris)
+NlmId: 0372331
+--------------------------------------------------------
+JrId: 632
+JournalTitle: Annual Conference on Research in Medical Education. Conference on Research in Medical Education
+MedAbbr: Annu Conf Res Med Educ
+ISSN (Print): 0190-7255
+ISSN (Online): 
+IsoAbbr: Annu Conf Res Med Educ
+NlmId: 7801910
+--------------------------------------------------------
+JrId: 633
+JournalTitle: Annali di radiologia diagnostica
+MedAbbr: Ann Radiol Diagn (Bologna)
+ISSN (Print): 0003-4673
+ISSN (Online): 
+IsoAbbr: Ann Radiol Diagn (Bologna)
+NlmId: 0372654
+--------------------------------------------------------
+JrId: 634
+JournalTitle: Proceedings of the ... annual Conference on Research in Medical Education. Conference on Research in Medical Education
+MedAbbr: Proc Annu Conf Res Med Educ
+ISSN (Print): 0892-2543
+ISSN (Online): 
+IsoAbbr: Proc Annu Conf Res Med Educ
+NlmId: 8402509
+--------------------------------------------------------
+JrId: 635
+JournalTitle: Annual review of neuroscience
+MedAbbr: Annu Rev Neurosci
+ISSN (Print): 0147-006X
+ISSN (Online): 1545-4126
+IsoAbbr: Annu. Rev. Neurosci.
+NlmId: 7804039
+--------------------------------------------------------
+JrId: 636
+JournalTitle: Annales de recherches veterinaires. Annals of veterinary research
+MedAbbr: Ann Rech Vet
+ISSN (Print): 0003-4193
+ISSN (Online): 
+IsoAbbr: Ann. Rech. Vet.
+NlmId: 1267230
+--------------------------------------------------------
+JrId: 637
+JournalTitle: Archives d'anatomie et de cytologie pathologiques
+MedAbbr: Arch Anat Cytol Pathol
+ISSN (Print): 0395-501X
+ISSN (Online): 
+IsoAbbr: Arch. Anat. Cytol. Pathol.
+NlmId: 7609770
+--------------------------------------------------------
+JrId: 638
+JournalTitle: Architectural record
+MedAbbr: Archit Rec
+ISSN (Print): 0003-858X
+ISSN (Online): 
+IsoAbbr: Archit Rec
+NlmId: 9877762
+--------------------------------------------------------
+JrId: 639
+JournalTitle: ANNA journal / American Nephrology Nurses' Association
+MedAbbr: ANNA J
+ISSN (Print): 8750-0779
+ISSN (Online): 
+IsoAbbr: ANNA J
+NlmId: 8411466
+--------------------------------------------------------
+JrId: 640
+JournalTitle: Annals of the rheumatic diseases
+MedAbbr: Ann Rheum Dis
+ISSN (Print): 0003-4967
+ISSN (Online): 1468-2060
+IsoAbbr: Ann. Rheum. Dis.
+NlmId: 0372355
+--------------------------------------------------------
+JrId: 641
+JournalTitle: Annali della sanita pubblica
+MedAbbr: Ann Sanita Pubblica
+ISSN (Print): 0021-3071
+ISSN (Online): 
+IsoAbbr: Ann Sanita Pubblica
+NlmId: 0071152
+--------------------------------------------------------
+JrId: 642
+JournalTitle: Annali Sclavo; rivista di microbiologia e di immunologia
+MedAbbr: Ann Sclavo
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Ann Sclavo
+NlmId: 2985177R
+--------------------------------------------------------
+JrId: 643
+JournalTitle: Annales de la Societe belge de medecine tropicale
+MedAbbr: Ann Soc Belg Med Trop
+ISSN (Print): 0772-4128
+ISSN (Online): 
+IsoAbbr: Ann Soc Belg Med Trop
+NlmId: 7511864
+--------------------------------------------------------
+JrId: 644
+JournalTitle: Annales de la Societe royale des sciences medicales et naturelles de Bruxelles
+MedAbbr: Ann Soc R Sci Med Nat Brux
+ISSN (Print): 0772-3997
+ISSN (Online): 
+IsoAbbr: Ann Soc R Sci Med Nat Brux
+NlmId: 7506850
+--------------------------------------------------------
+JrId: 645
+JournalTitle: Annali di stomatologia
+MedAbbr: Ann Stomatol (Roma)
+ISSN (Print): 1824-0852
+ISSN (Online): 1971-1441
+IsoAbbr: Ann Stomatol (Roma)
+NlmId: 0404022
+--------------------------------------------------------
+JrId: 646
+JournalTitle: Annals of surgery
+MedAbbr: Ann Surg
+ISSN (Print): 0003-4932
+ISSN (Online): 1528-1140
+IsoAbbr: Ann. Surg.
+NlmId: 0372354
+--------------------------------------------------------
+JrId: 647
+JournalTitle: Annales de chirurgie de la main : organe officiel des societes de chirurgie de la main
+MedAbbr: Ann Chir Main
+ISSN (Print): 0753-9053
+ISSN (Online): 
+IsoAbbr: Ann Chir Main
+NlmId: 8411230
+--------------------------------------------------------
+JrId: 648
+JournalTitle: The Annals of thoracic surgery
+MedAbbr: Ann Thorac Surg
+ISSN (Print): 0003-4975
+ISSN (Online): 1552-6259
+IsoAbbr: Ann. Thorac. Surg.
+NlmId: 15030100R
+--------------------------------------------------------
+JrId: 649
+JournalTitle: Annals of tropical medicine and parasitology
+MedAbbr: Ann Trop Med Parasitol
+ISSN (Print): 0003-4983
+ISSN (Online): 1364-8594
+IsoAbbr: Ann Trop Med Parasitol
+NlmId: 2985178R
+--------------------------------------------------------
+JrId: 650
+JournalTitle: Annales Universitatis Mariae Curie-Sklodowska. Sectio D: Medicina
+MedAbbr: Ann Univ Mariae Curie Sklodowska Med
+ISSN (Print): 0066-2240
+ISSN (Online): 
+IsoAbbr: Ann Univ Mariae Curie Sklodowska Med
+NlmId: 0414101
+--------------------------------------------------------
+JrId: 651
+JournalTitle: Antibiotiki i khimioterapiia = Antibiotics and chemoterapy [sic] / Ministerstvo meditsinskoi i mikrobiologicheskoi promyshlennosti SSSR
+MedAbbr: Antibiot Khimioter
+ISSN (Print): 0235-2990
+ISSN (Online): 
+IsoAbbr: Antibiot. Khimioter.
+NlmId: 8803688
+--------------------------------------------------------
+JrId: 652
+JournalTitle: Archives of andrology
+MedAbbr: Arch Androl
+ISSN (Print): 0148-5016
+ISSN (Online): 1521-0375
+IsoAbbr: Arch. Androl.
+NlmId: 7806755
+--------------------------------------------------------
+JrId: 653
+JournalTitle: Archives belges = Belgisch archief
+MedAbbr: Arch Belg
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Arch Belg
+NlmId: 8302753
+--------------------------------------------------------
+JrId: 654
+JournalTitle: Annales Universitatis Saraviensis. Medizin
+MedAbbr: Ann Univ Sarav Med
+ISSN (Print): 0003-4533
+ISSN (Online): 
+IsoAbbr: Ann Univ Sarav Med
+NlmId: 0414102
+--------------------------------------------------------
+JrId: 655
+JournalTitle: Annales d'urologie
+MedAbbr: Ann Urol (Paris)
+ISSN (Print): 0003-4401
+ISSN (Online): 1768-3378
+IsoAbbr: Ann Urol (Paris)
+NlmId: 0212342
+--------------------------------------------------------
+JrId: 656
+JournalTitle: Annals of neurology
+MedAbbr: Ann Neurol
+ISSN (Print): 0364-5134
+ISSN (Online): 1531-8249
+IsoAbbr: Ann. Neurol.
+NlmId: 7707449
+--------------------------------------------------------
+JrId: 657
+JournalTitle: Annals of the Royal Australasian College of Dental Surgeons
+MedAbbr: Ann R Australas Coll Dent Surg
+ISSN (Print): 0158-1570
+ISSN (Online): 
+IsoAbbr: Ann R Australas Coll Dent Surg
+NlmId: 8006208
+--------------------------------------------------------
+JrId: 658
+JournalTitle: Annals of tropical paediatrics
+MedAbbr: Ann Trop Paediatr
+ISSN (Print): 0272-4936
+ISSN (Online): 1465-3281
+IsoAbbr: Ann Trop Paediatr
+NlmId: 8210625
+--------------------------------------------------------
+JrId: 659
+JournalTitle: L' Annee biologique
+MedAbbr: Annee Biol
+ISSN (Print): 0003-5017
+ISSN (Online): 
+IsoAbbr: Annee Biol
+NlmId: 0372330
+--------------------------------------------------------
+JrId: 660
+JournalTitle: L'Annee endocrinologique
+MedAbbr: Annee Endocrinol
+ISSN (Print): 0365-1940
+ISSN (Online): 
+IsoAbbr: Annee Endocrinol
+NlmId: 7606934
+--------------------------------------------------------
+JrId: 661
+JournalTitle: L'annee psychologique
+MedAbbr: Annee Psychol
+ISSN (Print): 0003-5033
+ISSN (Online): 1955-2580
+IsoAbbr: Annee Psychol
+NlmId: 0372363
+--------------------------------------------------------
+JrId: 662
+JournalTitle: L'Annee therapeutique et clinique en ophtalmologie
+MedAbbr: Annee Ther Clin Ophtalmol
+ISSN (Print): 0301-4495
+ISSN (Online): 
+IsoAbbr: Annee Ther Clin Ophtalmol
+NlmId: 0405351
+--------------------------------------------------------
+JrId: 663
+JournalTitle: Proceedings, Annual Management Conference - American Dental Association
+MedAbbr: Proc Annu Manage Conf Am Dent Assoc
+ISSN (Print): 0148-4699
+ISSN (Online): 
+IsoAbbr: Proc Annu Manage Conf Am Dent Assoc
+NlmId: 7704006
+--------------------------------------------------------
+JrId: 664
+JournalTitle: Annual report of the Research Institute of Environmental Medicine, Nagoya University
+MedAbbr: Annu Rep Res Inst Environ Med Nagoya Univ
+IS
