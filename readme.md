@@ -6,7 +6,16 @@ This script gathers a list of standard journal abbreviations from the web, then 
 
 There is also support for adding your own abbreviations by adding to the file dat/bibabbrev-supplement.txt. bibabbrev will output to stderr the list of any journals that were not found in the abbreviation list; this can be a starting point for which journals to add to the supplement.
 
-usage: 
+Usage: 
 
 * `bibabbrev.py -b bibtex_library.bib` *or* 
 * `cat bibtex_library.bib | bibabbrev.py`
+
+**bibtally.py**
+
+Parses one or more latex files for citations, then outputs a list of the citation keys. Input can be via a list of files or from stdin; output is to stdout.
+
+Usage:
+
+* `bibtally.py file1.tex file2.tex file3.tex` *or*
+* `cat file.tex | bibtally.py`
