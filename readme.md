@@ -28,3 +28,11 @@ Usage:
 
 * `bibextract.py bibtex_library.bib list_of_keys` *or*
 * `bibtally.py file.tex | bibextract.py bib_library.bib`
+
+**bibcount.py**
+With a latex file and a list of keys (for example, the output of `bibtally.py`), this will count how many times each citation key is cited and output the results via stdout. If the list of keys is omitted, it is read from stdin.
+
+Usage:
+
+* `bibcount.py file.tex list_of_keys` *or*
+* `bibtally.py file1.tex | bibcount.py file1.tex`
