@@ -19,3 +19,12 @@ Usage:
 
 * `bibtally.py file1.tex file2.tex file3.tex` *or*
 * `cat file.tex | bibtally.py`
+
+**bibextract.py**
+
+Given a bibtex library and a list of keys (for example, the output of `bibtally.py`), `bibextract.py` finds the citations in the library matching the list of keys and extracts them into a new bibtex library containing only those keys. Output is via stdout. If the list of keys is omitted, it is read from stdin.
+
+Usage:
+
+* `bibextract.py bibtex_library.bib list_of_keys` *or*
+* `bibtally.py file.tex | bibextract.py bib_library.bib`
