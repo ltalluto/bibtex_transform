@@ -138,7 +138,7 @@ def read_data(settings):
 def abbreviate_and_output(bibData, abbreviations):
     notFound = {}
     for l in bibData:
-        journalMatch = re.search("Journal\s+=\s+(.+),\s*$",l)
+        journalMatch = re.search("Journal\s+=\s+(.+),",l, re.IGNORECASE)
         if journalMatch:
             journalName = journalMatch.group(1)
             # remove curly braces

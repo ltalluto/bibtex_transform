@@ -41,3 +41,30 @@ MedAbbr: Science
 JournalTitle: Oikos
 MedAbbr: Oikos
 --------------------------------------------------------
+JournalTitle: Ambio
+MedAbbr: Ambio
+--------------------------------------------------------
+JournalTitle: Journal of Applied Ecology
+MedAbbr: J Appl Ecol
+--------------------------------------------------------
+JournalTitle: Global Environmental Change
+MedAbbr: Global Eviron Chang
+--------------------------------------------------------
+JournalTitle: Annual Review of Ecology, Evolution, and Systematics
+MedAbbr: Annu Rev Ecol Evol Syst
+--------------------------------------------------------
+JournalTitle: Proceedings of the National Academy of Sciences
+MedAbbr: PNAS
+--------------------------------------------------------
+JournalTitle: Frontiers in Ecology and the Environment
+MedAbbr: Front Ecol Environ
+--------------------------------------------------------
+JournalTitle: Trends in Ecology & Evolution
+MedAbbr: Trends Ecol Evol
+--------------------------------------------------------
+JournalTitle: Trends in Ecology and Evolution
+MedAbbr: Trends Ecol Evol
+--------------------------------------------------------
+JournalTitle: Annual Review of Ecology and Systematics
+MedAbbr: Annu Rev Ecol Syst
+--------------------------------------------------------
